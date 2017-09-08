@@ -227,3 +227,17 @@ if (!function_exists('media_url')) {
     }
 
 }
+
+if (!function_exists('news_url')) {
+
+    function news_url($news = array()) {
+        if (isset($news['news_url'])) {
+            return $news['news_url'];
+        } else {
+            list($date, $time) = explode(' ', $news['news_post_date']);
+            list($year, $month, $day) = explode('-', $date);
+            return site_url('news/read/' . $year . '/' . $month . '/' . $day . '/' . $news['news_id'] . '/' . url_title($news['news_title'], '-', TRUE) . '.html');
+        }
+    }
+
+}
