@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="<?php echo base_url('media/css/angular-multi-select.css') ?>">
+<!-- <link rel="stylesheet" type="text/css" href="<?php echo base_url('media/css/angular-multi-select.css') ?>">
 <script type="text/javascript" src="<?php echo base_url('media/js/angular-multi-select.js') ?>"></script>
 <link href="<?php echo base_url('/media/css/mediamanager.css'); ?>" rel="stylesheet">
 <script src="<?php echo base_url('/media/js/mediamanager.js'); ?>"></script>
@@ -105,3 +105,94 @@
 
 
 
+ -->
+
+
+ 
+<section class="about-section" style="margin-top: 10px;">
+  <div class="index-content">
+    <div class="container">
+      <a href="blog-ici.html">
+        <div class="col-lg-4">
+          <div class="card">
+            <img src="media/images/0.jpg" class="img-responsive" width="100%">
+            <h4>Investment Strategy</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <a href="detail_news.php" class="blue-button">Read More</a>
+          </div>
+        </div>
+      </a>
+      <a href="blog-ici.html">
+        <div class="col-lg-4">
+          <div class="card">
+            <img src="media/images/1.jpg" class="img-responsive" width="100%">
+            <h4>Investment Strategy</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <a href="detail_news.php" class="blue-button">Read More</a>
+          </div>
+        </div>
+      </a>
+      <a href="blog-ici.html">
+        <div class="col-lg-4">
+          <div class="card">
+            <img src="media/images/2.jpg" class="img-responsive" width="100%">
+            <h4>Investment Strategy</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <a href="detail_news.php" class="blue-button">Read More</a>
+          </div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+
+  <div class="index-content">
+    <div class="container">
+      <a href="blog-ici.html">
+        <div class="col-lg-4">
+          <div class="card">
+            <img src="media/images/3.jpg" class="img-responsive" width="100%">
+            <h4>Investment Strategy</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <a href="detail_news.php" class="blue-button">Read More</a>
+          </div>
+        </div>
+      </a>
+      <a href="blog-ici.html">
+        <div class="col-lg-4">
+          <div class="card">
+            <img src="media/images/4.jpg" class="img-responsive" width="100%">
+            <h4>Investment Strategy</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <a href="detail_news.php" class="blue-button">Read More</a>
+          </div>
+        </div>
+      </a>
+      <a href="blog-ici.html">
+        <div class="col-lg-4">
+          <div class="card">
+            <img src="media/images/5.jpg" class="img-responsive" width="100%">
+            <h4>Investment Strategy</h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <a href="detail_news.php" class="blue-button">Read More</a>
+          </div>
+        </div>
+      </a>
+
+    </div>
+  </div>
+
+</section>
+
+
+
+
+
+
+<footer class="container-fluid text-center bg-lightgray">
+  <div class="copyrights" style="margin-top:25px;">
+    <p>Intermark Indonesia © 2017, All Rights Reserved
+      <br>
+      <span>Themes : RumahCG</span></p>
+    </div>
+  </footer>
