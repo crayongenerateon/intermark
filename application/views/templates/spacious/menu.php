@@ -1,4 +1,4 @@
-
+<!-- 
 <div class="col-sm-4 col-xs-12 text-right">
  <?php $mptt = new Zebra_Mptt(); ?>
  <ul class="tools">                    
@@ -25,4 +25,20 @@
     <?php endforeach; ?>                
 </ul>
 </div>
-
+ -->
+ <div class="col-sm-4 col-xs-12 text-right">
+          <ul class="tools">                    
+           <li>
+             <a href="default.php"><small>Home</small></a>                  
+           </li>
+           <li>
+             <a href="career.php"><small>Career</small></a>                  
+           </li>
+           <li>
+             <a href="news.php"><small>News</small></a>                  
+           </li>
+           <li>
+             <a href="contact.php"><small>Contact</small></a>                  
+           </li>                   
+         </ul>
+       </div>
