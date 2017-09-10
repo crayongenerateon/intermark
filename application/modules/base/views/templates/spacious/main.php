@@ -17,7 +17,7 @@
       <div class="slide-1"></div>
       <div class="hero">
         <hgroup>
-          <h1>Introduction</h1>        
+          <h2>Introduction</h2>        
           <h3>Intermark is a one of the kind mixed-use building that combines artistic facade and modern contemporary architecture concept that simply creates a beautiful modern time signature in the south-end of Jakarta Intermark is a one of the kind mixed-use bu</h3>
           <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
       </hgroup>
@@ -57,7 +57,7 @@
   <div class="slide-5"></div>
   <div class="hero">        
     <hgroup>
-      <h1>Apartemen</h1>        
+      <h1>Tuscany reidence</h1>        
       <h3>Tuscany Residence is a luxurious 21 storey high apartment in Intermark that offers ad-hock four-star hotel services and amenities in a modern contemporary architecture and three level basement design.</h3>
       <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
   </hgroup>

@@ -35,19 +35,19 @@
   <script>
     $(function() {
 
-        $(".imgLiquidFill").imgLiquid({
-            fill: true,
-            horizontalAlign: "center",
-            verticalAlign: "center"
-        });
+      $(".imgLiquidFill").imgLiquid({
+        fill: true,
+        horizontalAlign: "center",
+        verticalAlign: "center"
+      });
     });
-</script>
+  </script>
 
-<div id="fb-root"></div>
+  <div id="fb-root"></div>
 </head>
 
 <body>
-  
+
 
   <!--bg img  -->
   <div class="container-fluid main">
@@ -58,30 +58,31 @@
             <ul class="tools">     
               <li>
                 <a class="" href="#"> <small> +123 4567 89108088</small> </a>
-            </li>
+              </li>
             <!-- <li>
                <a class="" href="#"><i class="fa fa-envelope" aria-hidden="true"></i><small> intermark@gmail.com</small></a>
-           </li> -->
-       </ul>
-   </div>
-   <div class="col-sm-4 text-center">
-   </div>
-   <?php echo $this->template->load('menu'); ?>
-</div>
-</div>
-</nav>   <!--TOP-NAVBAR-END-->
-</div>
+             </li> -->
+           </ul>
+         </div>
+         <div class="col-sm-4 text-center">
+         </div>
+         <?php echo $this->template->load('menu'); ?>
+       </div>
+     </div>
+   </nav>   <!--TOP-NAVBAR-END-->
+ </div>
 
-<!--====================== NAVBAR MENU START===================-->
-<nav class="navbar navbar-default">
-  <div class="container">
-     <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>                        
-      </button>
-      <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-xs" width="10%" style="margin-top: -16px;"></a>
+ <!--====================== NAVBAR MENU START===================-->
+ <nav class="navbar navbar-default">
+ <div class="container">
+   <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>                        
+    </button>
+    <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-xs" width="20%" style="margin-top: -16px;"></a>
+     <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-lg hidden-md hidden-sm" width="30%" style="margin-top: -14px;"></a>
   </div>
   <div class="collapse navbar-collapse" id="myNavbar">
     <ul class="nav navbar-nav navbar-right">
@@ -91,42 +92,42 @@
           <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
           <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
           <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-      </ul>
-  </li>
-  <li class="dropdown">
-    <a href="" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence<span class="caret"></span></a>
-    <ul class="dropdown-menu">
-      <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-      <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-      <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-  </ul>
-</li>
-<li class="dropdown">
-    <a href="" class="dropdown-toggle" data-toggle="dropdown">Swiss Bell Hotell<span class="caret"></span></a>
-    <ul class="dropdown-menu">
-      <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-      <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-      <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-  </ul>
-</li>
-<li class="dropdown">
-    <a href="" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall<span class="caret"></span></a>
-    <ul class="dropdown-menu">
-      <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-      <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-      <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-  </ul>
-</li>
-<li class="dropdown">
-    <a href="" class="dropdown-toggle" data-toggle="dropdown">Shop Hause & Commercial<span class="caret"></span></a>
-    <ul class="dropdown-menu">
-      <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-      <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-      <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-  </ul>
-</li>     
-</ul>
-</div>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="" class="dropdown-toggle" data-toggle="dropdown">Shop Hause & Commercial<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+        </ul>
+      </li>     
+    </ul>
+  </div>
 </div>
 </nav>
 
