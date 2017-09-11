@@ -63,7 +63,7 @@
                                 <span class="icon-bar"></span>
                                 <span class="icon-bar"></span>
                             </button>
-                            <a class="navbar-brand" href="<?php echo site_url('gadmin/dashboard'); ?>" style="color:white;">GROOT - Control Panel</a>
+                            <a class="navbar-brand" href="<?php echo site_url('gadmin/dashboard'); ?>" style="color:white;">Intermark - Control Panel</a>
                         </div>
 
                         <div class="navbar-collapse collapse">
