@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="utf-8">
-    <title>Intermark<?php echo isset($title) ? ' | ' . $title : null; ?></title>
+    <title>Intermark <?php echo isset($title) ? ' | ' . $title : null; ?></title>
     <meta name="generator" content="Bootply" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
@@ -119,7 +119,7 @@
                 <!-- Footer -->
                 <footer class="bottom" style="background-color: #2c3e50;">
                     <div class="orc text-center">
-                        <p class="text-muted" style="color: white;">© 2016-2017 GROOT - Supported by Rumah Cipta Generasi</a></p>
+                        <p class="text-muted" style="color: white;">© 2016-2017 Intermark - Supported by Rumah Cipta Generasi</a></p>
                     </div>
                 </footer>
             </body>
