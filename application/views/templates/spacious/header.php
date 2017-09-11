@@ -56,9 +56,9 @@
         <div class="row">
           <div class="col-sm-4 col-xs-5 hidden-xs">
             <ul class="tools">     
-              <li>
-                <a class="" href="#"> <small> +123 4567 89108088</small> </a>
-              </li>
+             <!--  <li>
+                <a class="" href="#"> <small> +62 21 2917999</small> </a>
+              </li> -->
             <!-- <li>
                <a class="" href="#"><i class="fa fa-envelope" aria-hidden="true"></i><small> intermark@gmail.com</small></a>
              </li> -->
