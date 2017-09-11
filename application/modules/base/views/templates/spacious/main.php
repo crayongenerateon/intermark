@@ -97,7 +97,7 @@
           <h4 class="modal-title"><i class="fa fa-exclamation-circle"></i>Your title goes here</h4>
       </div> -->
       <div class="modal-body">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/iklan.jpg" class="img-responsive" width="100%">
+        <img src="<?php echo base_url() ?>media/templates/intermark/images/up.jpeg" class="img-responsive" width="100%">
      </div>
  <!--     <div class="modal-footer">
       <button type="button" class="btn btn-default" data-dismiss="modal">Submit</button>

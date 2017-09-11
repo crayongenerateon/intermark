@@ -27,7 +27,7 @@
                 <div class="login">
                     <h1 class="admin">Hello, Admin!</h1>
                     <?php echo form_open('user/auth/process_login'); ?>
-                    <div class="form-group forms">
+                    <div class="form-group">
                         <input name="username" type="text" autofocus class="form-control" id="exampleInputName2" placeholder="Username">
                     </div>
                     <div class="form-group formz">
@@ -60,6 +60,9 @@
             </div>
         </nav>
     </div>
+
+
+
 
 </body>
 </html>

@@ -60,11 +60,6 @@ html, body {
 }
 /*CUSTOM*/
 
-.form-control {
-	border-radius: 0px;
-	padding: 30px;
-	color: #3b444f;
-}
 ::selection {
 	color: white;
     background: #3b444f; /* WebKit/Blink Browsers */
