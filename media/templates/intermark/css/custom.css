@@ -794,6 +794,12 @@ label, legend {
   padding-bottom: 10px;
 }
 
+.grafico {
+  min-width: 310px;
+  max-width: 400px;
+  height: 280px;
+  margin: 0 auto
+}
 
 @import url(http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css);
 .bg-lightgray
@@ -1044,3 +1050,5 @@ label, legend {
   .map-form .form__message:focus{
     outline:none;
   }
+
+  
