@@ -119,7 +119,7 @@
                 <!-- Footer -->
                 <footer class="bottom" style="background-color: #2c3e50;">
                     <div class="orc text-center">
-                        <p class="text-muted" style="color: white;">© 2014-2015 GROOT - Supported by Artikulpi</a></p>
+                        <p class="text-muted" style="color: white;">© 2016-2017 GROOT - Supported by Rumah Cipta Generasi</a></p>
                     </div>
                 </footer>
             </body>
