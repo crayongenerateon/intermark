@@ -50,7 +50,7 @@
             <img src="<?php echo base_url() ?>media/templates/intermark/images/0.jpg" class="img-responsive" width="100%">
             <h4>Investment Strategy</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="detail_news.php" class="blue-button">Read More</a>
+            <a href="<?php echo site_url('news/news_detail') ?>" class="blue-button">Read More</a>
           </div>
         </div>
       </a>
@@ -60,7 +60,7 @@
             <img src="<?php echo base_url() ?>media/templates/intermark/images/1.jpg" class="img-responsive" width="100%">
             <h4>Investment Strategy</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="detail_news.php" class="blue-button">Read More</a>
+            <a href="<?php echo site_url('news/news_detail') ?>" class="blue-button">Read More</a>
           </div>
         </div>
       </a>
@@ -70,7 +70,7 @@
             <img src="<?php echo base_url() ?>media/templates/intermark/images/2.jpg" class="img-responsive" width="100%">
             <h4>Investment Strategy</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="detail_news.php" class="blue-button">Read More</a>
+            <a href="<?php echo site_url('news/news_detail') ?>" class="blue-button">Read More</a>
           </div>
         </div>
       </a>
@@ -86,7 +86,7 @@
             <img src="<?php echo base_url() ?>media/templates/intermark/images/3.jpg" class="img-responsive" width="100%">
             <h4>Investment Strategy</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="detail_news.php" class="blue-button">Read More</a>
+            <a href="<?php echo site_url('news/news_detail') ?>" class="blue-button">Read More</a>
           </div>
         </div>
       </a>
@@ -96,7 +96,7 @@
             <img src="<?php echo base_url() ?>media/templates/intermark/images/4.jpg" class="img-responsive" width="100%">
             <h4>Investment Strategy</h4>
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-            <a href="detail_news.php" class="blue-button">Read More</a>
+            <a href="<?php echo site_url('news/news_detail') ?>" class="blue-button">Read More</a>
           </div>
         </div>
       </a>
