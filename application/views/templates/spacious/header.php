@@ -8,7 +8,7 @@
   <meta name="author" content="">
 
   <title> Intermark <?php echo isset($title) ? ' | ' . $title : null; ?></title>
-  <link rel="icon" href="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" type="icon">
+  <link rel="icon" href="<?php echo base_url() ?>media/templates/intermark/images/ico/logo.png" type="icon">
   <!-- Bootstrap Core CSS -->
   <link href="<?php echo base_url() ?>media/css/bootstrap.min.css" rel="stylesheet" type="text/css">
   <link href="<?php echo base_url() ?>media/css/ionicons.min.css" rel="stylesheet" type="text/css">
@@ -74,61 +74,61 @@
 
  <!--====================== NAVBAR MENU START===================-->
  <nav class="navbar navbar-default">
- <div class="container">
-   <div class="navbar-header">
-    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>
-      <span class="icon-bar"></span>                        
-    </button>
-    <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-xs" width="20%" style="margin-top: -16px;"></a>
-     <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-lg hidden-md hidden-sm" width="30%" style="margin-top: -14px;"></a>
+   <div class="container">
+     <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-xs" width="20%" style="margin-top: -16px;"></a>
+      <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-lg hidden-md hidden-sm" width="30%" style="margin-top: -14px;"></a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="dropdown">
+          <a href="" class="dropdown-toggle" data-toggle="dropdown">Associate Tower<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="" class="dropdown-toggle" data-toggle="dropdown">Shop Hause & Commercial<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
+            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
+            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+          </ul>
+        </li>     
+      </ul>
+    </div>
   </div>
-  <div class="collapse navbar-collapse" id="myNavbar">
-    <ul class="nav navbar-nav navbar-right">
-      <li class="dropdown">
-        <a href="" class="dropdown-toggle" data-toggle="dropdown">Associate Tower<span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-        </ul>
-      </li>
-      <li class="dropdown">
-        <a href="" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence<span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-        </ul>
-      </li>
-      <li class="dropdown">
-        <a href="" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel<span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-        </ul>
-      </li>
-      <li class="dropdown">
-        <a href="" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall<span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-        </ul>
-      </li>
-      <li class="dropdown">
-        <a href="" class="dropdown-toggle" data-toggle="dropdown">Shop Hause & Commercial<span class="caret"></span></a>
-        <ul class="dropdown-menu">
-          <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-          <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-          <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
-        </ul>
-      </li>     
-    </ul>
-  </div>
-</div>
 </nav>
 
 
