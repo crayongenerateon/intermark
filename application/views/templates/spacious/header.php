@@ -119,7 +119,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown">Shop Hause & Commercial<span class="caret"></span></a>
+          <a href="" class="dropdown-toggle" data-toggle="dropdown">Commercial<span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
             <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
