@@ -10,9 +10,19 @@ class Career extends CI_Controller {
         $this->load->helper('text');
     }
 
-    public function index()
+    public function index($offset = NULL)
     {
-        
+        $this->load->library('pagination');
+        $this->load->helper('text');
+        $data['title'] = 'Indeks Karir';
+        $data['career'] = $this->Career_model->get(array('limit' => 10, 'offset' => $offset));
+        $config['uri_segment']= 3;
+        $config['per_page'] = 10;
+        $config['base_url'] = site_url('career/index');
+        $config['total_rows'] = $this->db->count_all('career');
+        $this->pagination->initialize($config);
+        $data['main'] = 'career_indeks';
+        $this->load->view('layout', $data);
     }
 
     public function detail($id = NULL, $name = '')
