@@ -49,7 +49,7 @@
   <div class="index-content">
     <div class="container">
       <?php foreach ($news as $row): ?>
-        <a href="blog-ici.html">
+        <a href="#">
           <div class="col-lg-4">
             <div class="card" style="margin-bottom: 20px;">
               <img src="<?php echo $row['news_image'] ?>" class="img-responsive" width="100%">
