@@ -41,7 +41,11 @@
 -->
 
 
-<section class="about-section" style="margin-top: 64px;">
+<section class="about-section" style="margin-top: 80px;">
+  <center>
+    <h1 class="title">NEWS & UPDATE</h1>
+    <h5>“You are the creator for your own future.”</h5>
+  </center>
   <div class="index-content">
     <div class="container">
       <?php foreach ($news as $row): ?>
@@ -60,12 +64,12 @@
   </div>
 
   <div class="container">
-      <div class="col-md-12">
-        <div >
-          <?php echo $this->pagination->create_links(); ?>
-        </div>
+    <div class="col-md-12">
+      <div >
+        <?php echo $this->pagination->create_links(); ?>
       </div>
-    </div> 
+    </div>
+  </div> 
 
 </section>
 

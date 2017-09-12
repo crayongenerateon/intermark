@@ -60,6 +60,7 @@
          <div class="index-content">
           <div class="card">
             <!-- <img src="<?php echo $news['career_image'] ?>" class="img-responsive" width="100%" style="height: 500px; min-height: 150px; overflow: hidden;"> -->
+            <br>
             <h4><?php echo $career['career_name'] ?></h4>
             <p><?php echo $career['career_description'] ?></p>
             <br>
