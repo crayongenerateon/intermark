@@ -82,6 +82,6 @@
   <div class="copyrights" style="margin-top:25px;">
     <p>Intermark Indonesia © 2017, All Rights Reserved
       <br>
-      <span>Themes : RumahCG</span></p>
+      <span>Themes : Intermark</span></p>
     </div>
   </footer>
