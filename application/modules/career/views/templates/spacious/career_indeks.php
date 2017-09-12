@@ -39,13 +39,12 @@
     </div> 
 </div> -->
 
-
-
 <section class="about-section" style="margin-top: 50px;">
  <div class="container">
    <div class="row">
+ <?php foreach ($career as $row): ?>
     <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-      <div class="offer offer-danger">
+      <div class="offer offer-default">
         <div class="shape">
           <div class="shape-text">
             <a href="">
@@ -55,120 +54,27 @@
         </div>
         <div class="offer-content">
           <h2 class="lead">
-           Senior Creative Writter
+           <?php echo $row['career_name']; ?>
          </h2>
          <p>
-           SCW
+           <?php echo strip_tags(character_limiter($row['career_description'], 50)) ?>
          </p>
        </div>
      </div>
    </div>
-   <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-    <div class="offer offer-info">
-      <div class="shape">
-        <div class="shape-text">
-         <a href="">
-          <span class="glyphicon  glyphicon-eye-open"></span>  
-        </a>             
-      </div>
-    </div>
-    <div class="offer-content">
-      <h2 class="lead">
-       Web Developer
-     </h2>
-     <p>
-      (Dot Net)
-    </p>
-  </div>
-</div>
-</div>
-<div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-  <div class="offer offer-radius offer-primary">
-    <div class="shape">
-      <div class="shape-text">
-       <a href="">
-        <span class="glyphicon  glyphicon-eye-open"></span>  
-      </a>             
-    </div>
-  </div>
-  <div class="offer-content">
-    <h2 class="lead">
-      Release Engineer
-    </h2>
-    <p>
-      RE
-    </p>
-  </div>
-</div>
+<?php endforeach ?>
 </div>
 </div>
 
-<div class="row">
-  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-    <div class="offer offer-default">
-      <div class="shape">
-        <div class="shape-text">
-          <a href="">
-            <span class="glyphicon  glyphicon-eye-open"></span>  
-          </a>             
+<div class="container">
+      <div class="col-md-12">
+        <div >
+          <?php echo $this->pagination->create_links(); ?>
         </div>
       </div>
-      <div class="offer-content">
-        <h2 class="lead">
-          Mobile Application Development
-        </h2>
-        <p>
-          (Android, IOS, Blackberry)
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-    <div class="offer offer-warning">
-      <div class="shape">
-        <div class="shape-text">
-          <a href="">
-            <span class="glyphicon  glyphicon-eye-open"></span>  
-          </a>           
-        </div>
-      </div>
-      <div class="offer-content">
-        <h2 class="lead">
-          Web/Interactive/Flash Designer
-        </h2>
-        <p>
-          Web
-        </p>
-      </div>
-    </div>
-  </div>
-  <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-    <div class="offer offer-success">
-      <div class="shape">
-        <div class="shape-text">
-         <a href="">
-          <span class="glyphicon  glyphicon-eye-open"></span>  
-        </a>            
-      </div>
-    </div>
-    <div class="offer-content">
-      <h2 class="lead">
-       Senior Marketing Communication
-     </h2>
-     <p>
-      SMC
-    </p>
-  </div>
-</div>
-</div>
+    </div> 
 
-
-</div>
-
-
-</div>
 </section>
-
 
 
 

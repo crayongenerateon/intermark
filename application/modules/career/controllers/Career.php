@@ -15,7 +15,7 @@ class Career extends CI_Controller {
         $this->load->library('pagination');
         $this->load->helper('text');
         $data['title'] = 'Indeks Karir';
-        $data['career'] = $this->Career_model->get(array('limit' => 10, 'offset' => $offset));
+        $data['career'] = $this->Career_model->get(array('limit' => 9, 'offset' => $offset));
         $config['uri_segment']= 3;
         $config['per_page'] = 10;
         $config['base_url'] = site_url('career/index');
