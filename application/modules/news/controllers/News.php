@@ -15,7 +15,7 @@ class News extends CI_Controller {
         $this->load->library('pagination');
         $this->load->helper('text');
         $data['title'] = 'Indeks Berita';
-        $data['news'] = $this->News_model->get(array( 'status' => 1, 'limit' => 10, 'offset' => $offset));
+        $data['news'] = $this->News_model->get(array( 'status' => 1, 'limit' => 9, 'offset' => $offset));
         $config['uri_segment']= 3;
         $config['per_page'] = 10;
         $config['base_url'] = site_url('news/index');
