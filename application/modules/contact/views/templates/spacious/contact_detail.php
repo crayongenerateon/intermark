@@ -58,7 +58,7 @@
 
  
 
-<section class="about-section" style="margin-top: 20px;">
+<section class="about-section" style="margin-top: 80px;">
  <div class="container">
   <div class="row">
       <div class="col-md-7">

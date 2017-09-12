@@ -39,7 +39,7 @@
     </div> 
   </div> -->
 
-  <section class="about-section" style="margin-top: 50px;">
+  <section class="about-section" style="margin-top: 60px;">
    <div class="container">
      <div class="row">
        <?php foreach ($career as $row): ?>
