@@ -58,7 +58,7 @@
 
  
 
-<section class="about-section" style="margin-top: 20px;">
+<section class="about-section" style="margin-top: 80px;">
  <div class="container">
   <div class="row">
       <div class="col-md-7">
@@ -88,7 +88,7 @@
             </form>
           </div>
       <div class="col-md-5">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10119.185074069741!2d29.031845602028582!3d41.05911758161741!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6477d93f7badc778!2sTRT+World!5e0!3m2!1str!2str!4v1496302367803" width="100%" height="320" frameborder="0" style="border:0" allowfullscreen></iframe>
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.6501855780707!2d106.6873393142591!3d-6.309604063502476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e531ee63e259%3A0x10ca1514be4fe7a3!2sIntermark+Indonesia!5e0!3m2!1sid!2sid!4v1505190136645" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
           <h2>Contact Details</h2>
           <h3>Address</h3>
           <p><?php echo $address['contact_value'] ?></p>
