@@ -53,7 +53,7 @@
     </div>
 </div> -->
 
- <section class="about-section" style="margin-top: 20px">
+ <section class="about-section" style="margin-top: 80px">
     <div class="container">
       <div class="col-lg-12">
         <center>
