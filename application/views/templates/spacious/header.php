@@ -6,56 +6,62 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="">
   <meta name="author" content="">
+  <SCRIPT language='javascript' >
+    var txt=' Intermark <?php echo isset($title) ? ' | ' . $title : null; ?> ';
+    var speed=150;var refresh=null;function move() { document.title=txt;
+      txt=txt.substring(1,txt.length)+txt.charAt(0);
+      refresh=setTimeout("move()",speed);}move();
+    </SCRIPT>
 
-  <title> Intermark <?php echo isset($title) ? ' | ' . $title : null; ?></title>
-  <link rel="icon" href="<?php echo base_url() ?>media/templates/intermark/images/ico/logo.png" type="icon">
-  <!-- Bootstrap Core CSS -->
-  <link href="<?php echo base_url() ?>media/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-  <link href="<?php echo base_url() ?>media/css/ionicons.min.css" rel="stylesheet" type="text/css">
-  <link href="<?php echo base_url() ?>media/templates/intermark/css/font-awesome.css" rel="stylesheet" type="text/css">
-  <link href="<?php echo base_url() ?>media/templates/intermark/css/animate.min.css" rel="stylesheet" type="text/css">
-  <!-- <link href="media/templates/intermark/css/material.indigo-pink.min.css" rel="stylesheet" type="text/css"> -->
+    <title> Intermark <?php echo isset($title) ? ' | ' . $title : null; ?></title>
+    <link rel="icon" href="<?php echo base_url() ?>media/templates/intermark/images/ico/logo.png" type="icon">
+    <!-- Bootstrap Core CSS -->
+    <link href="<?php echo base_url() ?>media/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo base_url() ?>media/css/ionicons.min.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo base_url() ?>media/templates/intermark/css/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo base_url() ?>media/templates/intermark/css/animate.min.css" rel="stylesheet" type="text/css">
+    <!-- <link href="media/templates/intermark/css/material.indigo-pink.min.css" rel="stylesheet" type="text/css"> -->
 
-  <!-- Custom CSS -->
-  <link href="<?php echo base_url() ?>media/templates/intermark/css/custom.css" rel="stylesheet" type="text/css">
+    <!-- Custom CSS -->
+    <link href="<?php echo base_url() ?>media/templates/intermark/css/custom.css" rel="stylesheet" type="text/css">
 
-  <!-- Core JavaScript Files -->
-  <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery-1.10.2.js"></script>
-  <script type="text/javascript" src="<?php echo base_url() ?>media/js/jquery-ui.min.js"></script>
-  <script type="text/javascript" src="<?php echo base_url() ?>media/js/bootstrap.min.js"></script>
+    <!-- Core JavaScript Files -->
+    <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>media/js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>media/js/bootstrap.min.js"></script>
 
-  <!-- Custom x JavaScript -->
-  <!-- <script type="text/javascript" src="media/templates/intermark/js/material.min.js"></script> -->
-  <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/wow.js"></script>
-  <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery.easing.min.js"></script>
-  <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/custom.js"></script>
-  <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
-  <script src="https://apis.google.com/js/platform.js" async defer></script>
+    <!-- Custom x JavaScript -->
+    <!-- <script type="text/javascript" src="media/templates/intermark/js/material.min.js"></script> -->
+    <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/wow.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/custom.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
 
-  <script>
-    $(function() {
+    <script>
+      $(function() {
 
-      $(".imgLiquidFill").imgLiquid({
-        fill: true,
-        horizontalAlign: "center",
-        verticalAlign: "center"
+        $(".imgLiquidFill").imgLiquid({
+          fill: true,
+          horizontalAlign: "center",
+          verticalAlign: "center"
+        });
       });
-    });
-  </script>
+    </script>
 
-  <div id="fb-root"></div>
-</head>
+    <div id="fb-root"></div>
+  </head>
 
-<body>
+  <body>
 
 
-  <!--bg img  -->
-  <div class="container-fluid main">
-    <nav class="top-bar">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-4 col-xs-5 hidden-xs">
-            <ul class="tools">     
+    <!--bg img  -->
+    <div class="container-fluid main">
+      <nav class="top-bar">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4 col-xs-5 hidden-xs">
+              <ul class="tools">     
              <!--  <li>
                 <a class="" href="#"> <small> +62 21 2917999</small> </a>
               </li> -->
