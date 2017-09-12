@@ -1,9 +1,8 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+<?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class News extends CI_Controller {
 
-	public function __construct()
+    public function __construct()
     {
         parent::__construct();
         $this->load->helper('url');
@@ -16,11 +15,11 @@ class News extends CI_Controller {
         $this->load->library('pagination');
         $this->load->helper('text');
         $data['title'] = 'Indeks Berita';
-        $data['news'] = $this->News_model->get(array('limit' => 10, 'offset' => $offset));
+        $data['news'] = $this->News_model->get(array( 'status' => 1, 'limit' => 10, 'offset' => $offset));
         $config['uri_segment']= 3;
         $config['per_page'] = 10;
         $config['base_url'] = site_url('news/index');
-        $config['total_rows'] = $this->db->count_all('news');
+        $config['total_rows'] = count($this->News_model->get(array( 'status' => 1)));
         $this->pagination->initialize($config);
         $data['main'] = 'news_indeks';
         $this->load->view('layout', $data);
@@ -36,5 +35,5 @@ class News extends CI_Controller {
 
 }
 
-/* End of file News.php */
-/* Location: ./application/modules/news/controllers/News.php */
+/* End of file posts.php */
+/* Location: ./application/controllers/news.php */

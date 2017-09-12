@@ -18,9 +18,9 @@
                         </time>
                         <!-- <?php if ($row['news_image'] != NULL) { ?>
                             <img src="<?php echo $row['news_image'] ?>" />
-                        <?php } ?> -->
+                        <?php } ?> 
                         <div class="info">
-                            <h3 class="title"><a href="<?php echo career_url($row) ?>" > <?php echo character_limiter($row['news_name'], 40) ?></a></h3>
+                            <h3 class="title"><a href="<?php echo career_url($row) ?>" > <?php echo character_limiter($row['career_name'], 40) ?></a></h3>
                             <p class="desc"><?php echo strip_tags(character_limiter($row['career_description'], 130)) ?></p>
                         </div>
                     </li>
