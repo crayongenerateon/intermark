@@ -42,12 +42,12 @@
 
 
 <section class="about-section" style="margin-top: 10px;">
-  <div class="container">
-    <div class="index-content">
+  <div class="index-content">
+    <div class="container">
       <?php foreach ($news as $row): ?>
         <a href="blog-ici.html">
           <div class="col-lg-4">
-          <div class="card" style="margin-bottom: 20px;">
+            <div class="card" style="margin-bottom: 20px;">
               <img src="<?php echo $row['news_image'] ?>" class="img-responsive" width="100%">
               <h4><?php echo $row['news_title'] ?></h4>
               <p><?php echo strip_tags(character_limiter($row['news_description'], 50)) ?></p>
@@ -58,17 +58,16 @@
       <?php endforeach ?>
     </div>
   </div>
+
+  <div class="container">
+      <div class="col-md-12">
+        <div >
+          <?php echo $this->pagination->create_links(); ?>
+        </div>
+      </div>
+    </div> 
+
 </section>
-
-<div class="row">
-  <div class="col-md-12">
-    <div >
-      <?php echo $this->pagination->create_links(); ?>
-    </div>
-  </div>
-</div> 
-</div>
-
 
 
 
