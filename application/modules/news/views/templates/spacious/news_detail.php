@@ -51,60 +51,38 @@
             </ul>
         </div>
     </div>
-</div> -->
+  </div> -->
 
 
 
-<section class="about-section" style="margin-top: 20px">
-  <div class="container">
-    <div class="col-lg-12">
-      <center>
+  <section class="about-section" style="margin-top: 20px">
+    <div class="container">
+      <div class="col-lg-12">
+        <center>
          <div class="index-content">
-            <div class="card">
-              <img src="media/images/0.jpg" class="img-responsive" width="100%" style="height: 500px; min-height: 150px; overflow: hidden;">
-              <h4>Investment Strategy</h4>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-              <br>
+          <div class="card">
+            <img src="<?php echo $news['news_image'] ?>" class="img-responsive" width="100%" style="height: 500px; min-height: 150px; overflow: hidden;">
+            <h4><?php echo $news['news_title'] ?></h4>
+            <p><?php echo $news['news_content'] ?></p>
+            <br>
           </div>
+        </div>
+      </center>
+
+      <div class="row">
+      <?php $no = 0 ?>
+      <?php foreach ($image as $row):?>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+          <img class="img-responsive pass" src="<?php echo upload_url($row['news_image_path']) ?>" />
+        </div>
+      <?php $no++; ?>
+      <?php endforeach ?>
       </div>
-  </center>
 
 
-  <div class="row">
-      <div class="col-md-3 col-sm-4 col-xs-6">
-        <a href="http://www.youtube.com/watch?v=TdY3B2pg7Ko">
-          <img class="img-responsive pass" src="media/images/0.jpg" />
-      </a>
+
+    </div>
   </div>
-  <div class="col-md-3 col-sm-4 col-xs-6">
-    <img class="img-responsive pass" src="media/images/1.jpg" />
-</div>
-<div class="col-md-3 col-sm-4 col-xs-6">
-    <img class="img-responsive pass" src="media/images/2.jpg" />
-</div>
-<div class="col-md-3 col-sm-4 col-xs-6">
-    <img class="img-responsive pass" src="media/images/3.jpg" />
-</div>
-</div>
-<div class="row">
-  <div class="col-md-3 col-sm-4 col-xs-6">
-    <img class="img-responsive pass" src="media/images/4.jpg" />
-</div>
-<div class="col-md-3 col-sm-4 col-xs-6">
-    <img class="img-responsive pass" src="media/images/5.jpg" />
-</div>
-<div class="col-md-3 col-sm-4 col-xs-6">
-    <img class="img-responsive pass" src="media/images/footer2.png" />
-</div>
-<div class="col-md-3 col-sm-4 col-xs-6">
-    <img class="img-responsive pass" src="media/images/train.png" />
-</div>
-</div>
-
-
-
-</div>
-</div>
 </section>
 
 
@@ -123,5 +101,5 @@
     <p>Intermark Indonesia © 2017, All Rights Reserved
       <br>
       <span>Themes : RumahCG</span></p>
-  </div>
-</footer>
+    </div>
+  </footer>

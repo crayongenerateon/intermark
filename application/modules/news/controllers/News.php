@@ -27,9 +27,22 @@ class News extends CI_Controller {
 
     public function detail($id = NULL, $name = '', $offset=NULL)
     {
+        $this->load->library('form_validation');
+        $this->form_validation->set_error_delimiters('<div class="alert alert-danger">', '</div>');
+        
+        if ($this->News_model->get(array('id' => $id)) == NULL) {
+            redirect('news');
+        }
+
         $data['news'] = $this->News_model->get(array('id' => $id));
-        $data['main'] = 'news_detail';
+        
+        if (count($data['news']) == 0) {
+            redirect('news');
+        }
+        
+        $data['image'] = $this->News_model->get_image(array('news_id' => $id));
         $data['title'] = $data['news']['news_title'];
+        $data['main'] = 'news_detail';
         $this->load->view('layout', $data);
     }
 
