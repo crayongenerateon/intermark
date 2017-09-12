@@ -400,7 +400,7 @@ of those sections to manage the look and feel of the site. */
   left: 50%;
   z-index: 3;
   color: #fff;
-  letter-spacing: 6px;
+  letter-spacing: 4px;
   text-align: center;
   text-transform: uppercase;
   text-shadow: 2px 2px 0 rgba(0,0,0,.75);
@@ -1051,4 +1051,11 @@ label, legend {
     outline:none;
   }
 
-  
+  .contact_call {
+    position:absolute;
+    z-index:999; bottom:0;
+    right:0;
+    margin-right:50px;
+    margin-bottom:30px;
+    text-shadow: 2px 1px 0 rgba(0,0,0,.75);
+  }
