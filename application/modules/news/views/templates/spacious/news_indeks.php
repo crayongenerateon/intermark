@@ -42,31 +42,31 @@
 
 
 <section class="about-section" style="margin-top: 10px;">
-  <div class="index-content">
-    <div class="container">
+  <div class="container">
+    <div class="index-content">
       <?php foreach ($news as $row): ?>
         <a href="blog-ici.html">
           <div class="col-lg-4">
-            <div class="card">
+          <div class="card" style="margin-bottom: 20px;">
               <img src="<?php echo $row['news_image'] ?>" class="img-responsive" width="100%">
               <h4><?php echo $row['news_title'] ?></h4>
               <p><?php echo strip_tags(character_limiter($row['news_description'], 50)) ?></p>
               <a href="<?php echo news_url($row) ?>" class="blue-button">Read More</a>
             </div>
           </div>
-        <?php endforeach ?>
-      </a>
+        </a>
+      <?php endforeach ?>
     </div>
-  </div><br>
+  </div>
 </section>
 
 <div class="row">
-        <div class="col-md-12">
-            <div >
-                <?php echo $this->pagination->create_links(); ?>
-            </div>
-        </div>
-    </div> 
+  <div class="col-md-12">
+    <div >
+      <?php echo $this->pagination->create_links(); ?>
+    </div>
+  </div>
+</div> 
 </div>
 
 
