@@ -55,12 +55,12 @@
 
 
 
-  <section class="about-section" style="margin-top: 20px">
+  <section class="about-section" style="margin-top: 80px">
     <div class="container">
       <div class="col-lg-12">
         <center>
          <div class="index-content">
-          <div class="card">
+          <div class="card" style="text-align: left;">
             <img src="<?php echo $news['news_image'] ?>" class="img-responsive" width="100%" style="height: 500px; min-height: 150px; overflow: hidden;">
             <h4><?php echo $news['news_title'] ?></h4>
             <p><?php echo $news['news_content'] ?></p>
