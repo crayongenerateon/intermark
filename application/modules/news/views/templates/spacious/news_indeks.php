@@ -41,7 +41,7 @@
 -->
 
 
-<section class="about-section" style="margin-top: 10px;">
+<section class="about-section" style="margin-top: 64px;">
   <div class="index-content">
     <div class="container">
       <?php foreach ($news as $row): ?>

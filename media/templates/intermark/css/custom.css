@@ -278,7 +278,7 @@ of those sections to manage the look and feel of the site. */
   background: rgba(0, 0, 0, 0.3) !important;
   /*background: #212121 !important;*/
   border-radius: 0px;   
-  padding: 0px 0px 9px 0px;
+  padding: 10px 0px 50px 0px;
   background-image: none;
   background-color: transparent; /* Make the menu become transparent */
   border-radius: 0px;
@@ -329,7 +329,7 @@ of those sections to manage the look and feel of the site. */
 }
 .navbar-default .navbar-nav > li > a {
  color: #fff !important;    
- font-size: 14px;          
+ font-size: 17px;          
  padding-top: 20px;
  padding-bottom: 15px;
  margin-bottom: -4px;
