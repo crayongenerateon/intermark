@@ -1,4 +1,4 @@
-<div class="col-md-7 col-sm-12 col-xs-12">
+<!-- <div class="col-md-7 col-sm-12 col-xs-12">
     <div class="col-md-12">
         <div class="">
             <div class="tag">
@@ -51,4 +51,44 @@
             </ul>
         </div>
     </div>
-</div>
+</div> -->
+
+ <section class="about-section" style="margin-top: 20px">
+    <div class="container">
+      <div class="col-lg-12">
+        <center>
+         <div class="index-content">
+          <div class="card">
+            <img src="<?php echo $news['career_image'] ?>" class="img-responsive" width="100%" style="height: 500px; min-height: 150px; overflow: hidden;">
+            <h4><?php echo $news['career_title'] ?></h4>
+            <p><?php echo $news['career_content'] ?></p>
+            <br>
+          </div>
+        </div>
+      </center>
+
+      <div class="row">
+      <?php $no = 0 ?>
+      <?php foreach ($image as $row):?>
+        <div class="col-md-3 col-sm-4 col-xs-6">
+          <img class="img-responsive pass" src="<?php echo upload_url($row['career_image_path']) ?>" />
+        </div>
+      <?php $no++; ?>
+      <?php endforeach ?>
+      </div>
+
+
+
+    </div>
+  </div>
+</section>
+
+
+
+<footer class="container-fluid text-center bg-lightgray">
+  <div class="copyrights" style="margin-top:25px;">
+    <p>Intermark Indonesia © 2017, All Rights Reserved
+      <br>
+      <span>Themes : RumahCG</span></p>
+    </div>
+  </footer>
