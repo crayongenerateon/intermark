@@ -15,7 +15,9 @@
   <div class="carousel-inner">
     <div class="item slides active">
       <div class="slide-1"></div>
-      <div style="position:absolute; z-index:999; bottom:0; right:0; margin-right:50px; margin-bottom:30px;"><h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2></div>
+      <div class="contact_call">
+      <h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2>
+      </div>
       <div class="hero">
         <hgroup>
           <h2>Introduction</h2>        
@@ -27,7 +29,9 @@
     </div>
     <div class="item slides">
       <div class="slide-2"></div>
-      <div style="position:absolute; z-index:999; bottom:0; right:0; margin-right:50px; margin-bottom:30px;"><h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2></div>
+      <div class="contact_call">
+      <h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2>
+      </div>
       <div class="hero">        
         <hgroup>
           <h1>Merdeka Assembly Hall</h1>        
@@ -38,7 +42,9 @@
     </div>
     <div class="item slides">
       <div class="slide-3"></div>
-      <div style="position:absolute; z-index:999; bottom:0; right:0; margin-right:50px; margin-bottom:30px;"><h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2></div>
+      <div class="contact_call">
+      <h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2>
+      </div>
       <div class="hero">        
         <hgroup>
           <h1>Swiss-BelHotel</h1>        
@@ -49,7 +55,9 @@
     </div>
     <div class="item slides">
       <div class="slide-4"></div>
-      <div style="position:absolute; z-index:999; bottom:0; right:0; margin-right:50px; margin-bottom:30px;"><h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2></div>
+      <div class="contact_call">
+      <h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2>
+      </div>
       <div class="hero">        
         <hgroup>
           <h1>Shop-Houses</h1>        
@@ -60,7 +68,9 @@
     </div>
     <div class="item slides">
       <div class="slide-5"></div>
-      <div style="position:absolute; z-index:999; bottom:0; right:0; margin-right:50px; margin-bottom:30px;"><h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2></div>
+      <div class="contact_call">
+      <h2 style="color:#000;"> <i class="ion ion-android-call"></i> +62 21 2917999</h2>
+      </div>
       <div class="hero">        
         <hgroup>
           <h1>Tuscany reidence</h1>        
