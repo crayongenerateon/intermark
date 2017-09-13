@@ -9,9 +9,9 @@ body, html {
     font-family: Lato Regular;
 }
 @font-face {
-   font-family: Roboto;
-   font-style: normal;
-   src: url(../fonts/Roboto-Light.ttf) format('truetype');
+ font-family: Roboto;
+ font-style: normal;
+ src: url(../fonts/Roboto-Light.ttf) format('truetype');
 }
 
 body {
@@ -27,7 +27,7 @@ body {
  * --------------------------------------------------
  */
 
-body {
+ body {
     padding-top: 50px;
     background-color: #EEEEEE;
 }
@@ -48,7 +48,7 @@ img.displayed {
  * --------------------------------------------------
  */
 
-@media screen and (max-width: 768px;) {
+ @media screen and (max-width: 768px;) {
     .row-offcanvas {
         position: relative;
         -webkit-transition: all 0.25s ease-out;
@@ -89,7 +89,7 @@ img.displayed {
  * --------------------------------------------------
  */
 
-.nav-sidebar {
+ .nav-sidebar {
     background-color: #f5f5f5;
     margin-right: -15px;
     margin-bottom: 50px;
@@ -165,7 +165,7 @@ a.lgitem {
  * --------------------------------------------------
  */
 
-.main {
+ .main {
     padding: 20px;
     background-color: #fff;
     min-height:1200px;
@@ -201,7 +201,7 @@ h3.page-header {
  * --------------------------------------------------
  */
 
-.orc {
+ .orc {
     width: auto;
     padding: 10px 15px 5px 15px;
 }
@@ -212,7 +212,7 @@ h3.page-header {
  *---------------------------------------------------
  */
 
-thead{
+ thead{
     background-color:#e9e9e9;
     border-bottom:3px solid #d9d9d9;
 }
@@ -368,24 +368,24 @@ thead{
  * Nestable
  */
 
-.dd { position: relative; display: block; margin: 0; padding: 0; list-style: none; font-size: 13px; line-height: 20px; }
+ .dd { position: relative; display: block; margin: 0; padding: 0; list-style: none; font-size: 13px; line-height: 20px; }
 
-.dd-list { display: block; position: relative; margin: 0; padding: 0; list-style: none; }
-.dd-list .dd-list { padding-left: 30px; }
-.dd-collapsed .dd-list { display: none; }
+ .dd-list { display: block; position: relative; margin: 0; padding: 0; list-style: none; }
+ .dd-list .dd-list { padding-left: 30px; }
+ .dd-collapsed .dd-list { display: none; }
 
-.dd-item,
-.dd-empty,
-.dd-placeholder { display: block; position: relative; margin: 0; padding: 0; min-height: 20px; font-size: 13px; line-height: 20px; }
+ .dd-item,
+ .dd-empty,
+ .dd-placeholder { display: block; position: relative; margin: 0; padding: 0; min-height: 20px; font-size: 13px; line-height: 20px; }
 
-.dd-handle { display: block; height: 30px; margin: 5px 0; padding: 5px 10px; color: #333; text-decoration: none; font-weight: bold; border: 1px solid #ccc;
-             background: #fafafa;
-             background: -webkit-linear-gradient(top, #fafafa 0%, #eee 100%);
-             background:    -moz-linear-gradient(top, #fafafa 0%, #eee 100%);
-             background:         linear-gradient(top, #fafafa 0%, #eee 100%);
-             -webkit-border-radius: 3px;
-             border-radius: 3px;
-             box-sizing: border-box; -moz-box-sizing: border-box;
+ .dd-handle { display: block; height: 30px; margin: 5px 0; padding: 5px 10px; color: #333; text-decoration: none; font-weight: bold; border: 1px solid #ccc;
+   background: #fafafa;
+   background: -webkit-linear-gradient(top, #fafafa 0%, #eee 100%);
+   background:    -moz-linear-gradient(top, #fafafa 0%, #eee 100%);
+   background:         linear-gradient(top, #fafafa 0%, #eee 100%);
+   -webkit-border-radius: 3px;
+   border-radius: 3px;
+   box-sizing: border-box; -moz-box-sizing: border-box;
 }
 .dd-item .tools { display:none; margin:5px 5px 0 0; }
 .dd-item:hover .tools { display:block; }
@@ -398,14 +398,14 @@ thead{
 .dd-placeholder,
 .dd-empty { margin: 5px 0; padding: 0; min-height: 30px; background: #f2fbff; border: 1px dashed #b6bcbf; box-sizing: border-box; -moz-box-sizing: border-box; }
 .dd-empty { border: 1px dashed #bbb; min-height: 100px; background-color: #e5e5e5;
-            background-image: -webkit-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), 
-                -webkit-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);
-            background-image:    -moz-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), 
-                -moz-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);
-            background-image:         linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), 
-                linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);
-            background-size: 60px 60px;
-            background-position: 0 0, 30px 30px;
+    background-image: -webkit-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), 
+    -webkit-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);
+    background-image:    -moz-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), 
+    -moz-linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);
+    background-image:         linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff), 
+    linear-gradient(45deg, #fff 25%, transparent 25%, transparent 75%, #fff 75%, #fff);
+    background-size: 60px 60px;
+    background-position: 0 0, 30px 30px;
 }
 
 .dd-dragel { position: absolute; pointer-events: none; z-index: 9999; }
@@ -419,41 +419,41 @@ thead{
  * Nestable Extras
  */
 
-.nestable-lists { display: block; clear: both; padding: 30px 0; width: 100%; border: 0; border-top: 2px solid #ddd; border-bottom: 2px solid #ddd; }
+ .nestable-lists { display: block; clear: both; padding: 30px 0; width: 100%; border: 0; border-top: 2px solid #ddd; border-bottom: 2px solid #ddd; }
 
-#nestable-menu { padding: 0; margin: 20px 0; }
+ #nestable-menu { padding: 0; margin: 20px 0; }
 
-#nestable-output { width: 100%; height: 7em; font-size: 0.75em; line-height: 1.333333em; font-family: Consolas, monospace; padding: 5px; box-sizing: border-box; -moz-box-sizing: border-box; }
+ #nestable-output { width: 100%; height: 7em; font-size: 0.75em; line-height: 1.333333em; font-family: Consolas, monospace; padding: 5px; box-sizing: border-box; -moz-box-sizing: border-box; }
 
-.dd-hover > .dd-handle { background: #2ea8e5 !important; }
+ .dd-hover > .dd-handle { background: #2ea8e5 !important; }
 
 /**
  * Nestable Draggable Handles
  */
 
-.dd3-content { display: block; height: 30px; margin: 5px 0; padding: 5px 10px 5px 40px; color: #333; text-decoration: none; font-weight: bold; border: 1px solid #ccc;
-               background: #fafafa;
-               background: -webkit-linear-gradient(top, #fafafa 0%, #eee 100%);
-               background:    -moz-linear-gradient(top, #fafafa 0%, #eee 100%);
-               background:         linear-gradient(top, #fafafa 0%, #eee 100%);
-               -webkit-border-radius: 3px;
-               border-radius: 3px;
-               box-sizing: border-box; -moz-box-sizing: border-box;
-}
-.dd3-content:hover { color: #2ea8e5; background: #fff; }
+ .dd3-content { display: block; height: 30px; margin: 5px 0; padding: 5px 10px 5px 40px; color: #333; text-decoration: none; font-weight: bold; border: 1px solid #ccc;
+     background: #fafafa;
+     background: -webkit-linear-gradient(top, #fafafa 0%, #eee 100%);
+     background:    -moz-linear-gradient(top, #fafafa 0%, #eee 100%);
+     background:         linear-gradient(top, #fafafa 0%, #eee 100%);
+     -webkit-border-radius: 3px;
+     border-radius: 3px;
+     box-sizing: border-box; -moz-box-sizing: border-box;
+ }
+ .dd3-content:hover { color: #2ea8e5; background: #fff; }
 
-.dd-dragel > .dd3-item > .dd3-content { margin: 0; }
+ .dd-dragel > .dd3-item > .dd3-content { margin: 0; }
 
-.dd3-item > button { margin-left: 30px; }
+ .dd3-item > button { margin-left: 30px; }
 
-.dd3-handle { position: absolute; margin: 0; left: 0; top: 0; cursor: pointer; width: 30px; text-indent: 100%; white-space: nowrap; overflow: hidden;
-              border: 1px solid #aaa;
-              background: #ddd;
-              background: -webkit-linear-gradient(top, #ddd 0%, #bbb 100%);
-              background:    -moz-linear-gradient(top, #ddd 0%, #bbb 100%);
-              background:         linear-gradient(top, #ddd 0%, #bbb 100%);
-              border-top-right-radius: 0;
-              border-bottom-right-radius: 0;
+ .dd3-handle { position: absolute; margin: 0; left: 0; top: 0; cursor: pointer; width: 30px; text-indent: 100%; white-space: nowrap; overflow: hidden;
+  border: 1px solid #aaa;
+  background: #ddd;
+  background: -webkit-linear-gradient(top, #ddd 0%, #bbb 100%);
+  background:    -moz-linear-gradient(top, #ddd 0%, #bbb 100%);
+  background:         linear-gradient(top, #ddd 0%, #bbb 100%);
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
 }
 .dd3-handle:before { content: '≡'; display: block; position: absolute; left: 0; top: 3px; width: 100%; text-align: center; text-indent: 0; color: #fff; font-size: 20px; font-weight: normal; }
 .dd3-handle:hover { background: #ddd; }
@@ -513,7 +513,7 @@ thead{
     border-left:solid 2px #D9D7D7;
 }
 .row-fluid .span3 {
-width: 23.404255319148934%;
+    width: 23.404255319148934%;
 }
 .pipanel .in{
     -webkit-margin-before: 0;
@@ -531,25 +531,28 @@ width: 23.404255319148934%;
 }
 
 #top {
-        background: #eee;
-        border-bottom: 1px solid #ddd;
-        padding: 0 10px;
-        line-height: 40px;
-        font-size: 12px;
-    }
-    .left { float: left }
-    .right { float: right }
-    .clear { clear: both }
+    background: #eee;
+    border-bottom: 1px solid #ddd;
+    padding: 0 10px;
+    line-height: 40px;
+    font-size: 12px;
+}
+.left { float: left }
+.right { float: right }
+.clear { clear: both }
 
-    #script-warning, #loading { display: none }
-    #script-warning { font-weight: bold; color: red }
+#script-warning, #loading { display: none }
+#script-warning { font-weight: bold; color: red }
 
-    #calendar {
-        max-width: 900px;
-        margin: 40px auto;
-        padding: 0 10px;
-    }
+#calendar {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 0 10px;
+}
 
-    .tzo {
-        color: #000;
-    }
+.tzo {
+    color: #000;
+}
+.fc-unthemed td.fc-today {
+    background: #2c3e50;
+}
