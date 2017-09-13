@@ -17,6 +17,8 @@
     <link href="<?php echo base_url('/media/css/jquery-ui.theme.min.css'); ?>" rel="stylesheet">
     <link href="<?php echo base_url('/media/css/ionicons.min.css'); ?>" type="text/css" rel="stylesheet">
     <link href="<?php echo base_url('media/css/jquery.Jcrop.min.css'); ?>" rel="stylesheet">
+    <link href="<?php echo base_url('media/css/fullcalendar.min.css'); ?>" rel="stylesheet">
+    <link href="<?php echo base_url('media/css/fullcalendar.print.min.css'); ?>" rel="stylesheet" media='print'>
     <!-- End Style Plugin-->
 
     <!-- CSS Costum -->
@@ -30,6 +32,8 @@
     <script src="<?php echo base_url('/media/js/imgLiquid-min.js'); ?>"></script>
     <script src="<?php echo base_url('/media/js/angular.min.js'); ?>"></script>
     <script src="<?php echo base_url('/media/js/jquery.Jcrop.min.js'); ?>"></script>
+     <script src="<?php echo base_url('/media/js/moment.min.js'); ?>"></script>
+    <script src="<?php echo base_url('/media/js/fullcalendar.min.js'); ?>"></script>
     <script src="<?php echo base_url('/media/js/mm.js'); ?>"></script>
 
 
