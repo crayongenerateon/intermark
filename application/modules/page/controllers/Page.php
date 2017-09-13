@@ -12,7 +12,37 @@ class Page extends CI_Controller {
 
     public function index()
     {
-        
+        redirect('layout');
+    }
+
+    public function associate_tower()
+    {
+        $data['main'] = 'page/associate_tower';
+        $this->load->view('layout', $data);   
+    }
+
+    public function tuscany_residence()
+    {
+        $data['main'] = 'page/tuscany_residence';
+        $this->load->view('layout', $data);
+    }
+
+    public function swiss_belhotel()
+    {
+        $data['main'] = 'page/swiss_belhotel';
+        $this->load->view('layout', $data);
+    }
+
+    public function merdeka_assembly_hall()
+    {
+        $data['main'] = 'page/merdeka_assembly_hall';
+        $this->load->view('layout', $data);
+    }
+
+    public function commercial()
+    {
+        $data['main'] = 'page/commercial';
+        $this->load->view('layout', $data);
     }
 
     public function detail($id = NULL, $name = '')

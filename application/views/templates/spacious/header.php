@@ -93,7 +93,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
+          <a href="<?php echo site_url('page/associate_tower') ?>" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
             <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
@@ -101,7 +101,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
+          <a href="<?php echo site_url('page/tuscany_residence') ?>" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
             <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
@@ -109,7 +109,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
+          <a href="<?php echo site_url('page/swiss_belhotel') ?>" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
             <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
@@ -117,7 +117,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
+          <a href="<?php echo site_url('page/merdeka_assembly_hall') ?>" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
             <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
@@ -125,7 +125,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
+          <a href="<?php echo site_url('page/commercial') ?>" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
             <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
