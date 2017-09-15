@@ -15,16 +15,16 @@
 							<i class="fa fa-comments fa-5x"></i>
 						</div>
 						<div class="col-xs-6 text-right">
-							<p class="announcement-heading">9000</p>
+							<p class="announcement-heading"><?php echo $count_news ?></p>
 							<p class="announcement-text"> News</p>
 						</div>
 					</div>
 				</div>
-				<a href="#">
+				<a href="<?php echo site_url('gadmin/news') ?>">
 					<div class="panel-footer announcement-bottom">
 						<div class="row">
 							<div class="col-xs-6">
-								Expand
+								View list
 							</div>
 							<div class="col-xs-6 text-right">
 								<i class="fa fa-arrow-circle-right"></i>
@@ -42,16 +42,16 @@
 							<i class="fa fa-address-card-o fa-5x"></i>
 						</div>
 						<div class="col-xs-6 text-right">
-							<p class="announcement-heading">1</p>
+							<p class="announcement-heading"><?php echo $count_career ?></p>
 							<p class="announcement-text">Career</p>
 						</div>
 					</div>
 				</div>
-				<a href="#">
+				<a href="<?php echo site_url('gadmin/career') ?>">
 					<div class="panel-footer announcement-bottom">
 						<div class="row">
 							<div class="col-xs-6">
-								Expand
+								View list
 							</div>
 							<div class="col-xs-6 text-right">
 								<i class="fa fa-arrow-circle-right"></i>
@@ -63,7 +63,7 @@
 		</div>
 		<div class="col-lg-12">
 		<p></p>
-			<div id='top'>
+			<!-- <div id='top'>
 
 				<div class='left'>
 					Timezone:
@@ -81,7 +81,7 @@
 
 				<div class='clear'></div>
 
-			</div>
+			</div> -->
 
 			<div id='calendar'></div>
 		</div>
