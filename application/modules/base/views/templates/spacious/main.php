@@ -87,6 +87,7 @@
 </div>
 
 
+<?php if ($show_popup['setting_value'] == 0): ?>
 <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">
 
   <div class="modal-dialog">
@@ -98,7 +99,7 @@
           <h4 class="modal-title"><i class="fa fa-exclamation-circle"></i>Your title goes here</h4>
         </div> -->
         <div class="modal-body">
-          <img src="<?php echo base_url() ?>media/templates/intermark/images/up.jpeg" class="img-responsive" width="100%">
+          <img src="<?php echo favicon()?>" class="img-responsive" width="100%">
         </div>
  <!--     <div class="modal-footer">
       <button type="button" class="btn btn-default" data-dismiss="modal">Submit</button>
@@ -107,3 +108,4 @@
 
 </div>
 </div>
+<?php endif ?>

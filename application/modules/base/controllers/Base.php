@@ -7,13 +7,13 @@ class Base extends CI_Controller {
     public function __construct() {
         parent::__construct();
     $this->load->model('Posts_model');
-    //$this->load->model('Product_model');
-    //$this->load->model('Client_model');
+    $this->load->model('Setting_model');
     }
     
     public function index() {
+        $data['show_popup'] = $this->Setting_model->get(array('id' => 15));
+
         $data['title'] = 'Home';
-        $data['posts'] = $this->Posts_model->get(array('limit' => 5, 'status' => 1));
         $data['main'] = 'main';
         $this->load->view('layout', $data);
     }

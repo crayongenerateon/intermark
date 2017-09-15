@@ -17,7 +17,7 @@
     <div class="col-md-8">
         <div class="row">
             <div class="col-md-4">
-                <label>Favicon</label>
+                <label>Gambar popup</label>
             </div>
             <div class="col-md-8">
                 <input type="checkbox" id="check" <?php echo $favicon['setting_value'] != '-' ? 'checked' : NULL ?> name="upload">

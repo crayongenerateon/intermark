@@ -116,6 +116,12 @@ class Setting_model extends CI_Model {
             $this->db->update('g_setting');
         }
 
+        if (isset($param['show_popup'])) {
+            $this->db->set('setting_value', $param['show_popup']);
+            $this->db->where('setting_id', 15);
+            $this->db->update('g_setting');
+        }
+
     }
 
 }
