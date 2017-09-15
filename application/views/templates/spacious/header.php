@@ -95,41 +95,41 @@
         <li class="dropdown">
           <a href="<?php echo site_url('page/associate_tower') ?>" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+            <li><a href="#"> Mezzanine</a></li>
+            <li><a href="#"> 2nd – 7th Floor</a></li>
+            <li><a href="#"> 9th – 20th Floor</a></li>
+            <li><a href=""> 8th Floor</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="<?php echo site_url('page/tuscany_residence') ?>" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+            <li><a href="#"> Studio</a></li>
+            <li><a href="#"> 1+1 Bedroom</a></li>
+            <li><a href="#"> 2 Bedroom</a></li>
+            <li><a href="#"> Executive Suite</a></li>
+            <li><a href="#"> Joint Unit</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="<?php echo site_url('page/swiss_belhotel') ?>" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+            <li><a href="#"> Deluxe</a></li>
+            <li><a href="#"> Grand Deluxe</a></li>
+            <li><a href="#"> Suite Room</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="<?php echo site_url('page/merdeka_assembly_hall') ?>" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+            <li><a href="#"> Merdeka Ballroom</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="<?php echo site_url('page/commercial') ?>" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"><i class="ion ion-location"></i> Lokasi</a></li>
-            <li><a href="#"><i class="ion ion-cash"></i> Harga</a></li>
-            <li><a href="#"><i class="ion ion-image"></i> Galeri</a></li>
+            <li><a href="#"> Tenant</a></li>
+            <li><a href="#"> Lease</a></li>
           </ul>
         </li>     
       </ul>
