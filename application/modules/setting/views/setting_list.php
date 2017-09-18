@@ -51,7 +51,7 @@
     <?php echo form_close() ?>
     <div class="col-md-4">
         <div class="alert alert-info">
-            Kolom tidak boleh kosong, Jika ingin di nonaktifkan silakan beri tanda ( - ) pada kolom yang tersedia.
+            Jika ingin di nonaktifkan silakan klik centang pada kolom yang tersedia.
         </div>
     </div>
 </div>
