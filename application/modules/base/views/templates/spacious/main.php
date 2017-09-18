@@ -86,8 +86,7 @@
 </div>
 </div>
 
-
-<?php if ($show_popup['setting_value'] == 0): ?>
+<?php if ($favicon['setting_value'] != '-'): ?>
 <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">
 
   <div class="modal-dialog">

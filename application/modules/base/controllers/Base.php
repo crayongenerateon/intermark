@@ -11,7 +11,7 @@ class Base extends CI_Controller {
     }
     
     public function index() {
-        $data['show_popup'] = $this->Setting_model->get(array('id' => 15));
+        $data['favicon'] = $this->Setting_model->get(array('id' => 1));
 
         $data['title'] = 'Home';
         $data['main'] = 'main';
