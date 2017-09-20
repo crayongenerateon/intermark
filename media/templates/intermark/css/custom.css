@@ -116,8 +116,8 @@ h3 {
 }
 
 .navbar-brand {
-  /* float: left; */
-  height: 50px;
+   float: left; 
+  height: 0px;
   padding: 3px 15px;
   font-size: 18px;
   line-height: 20px;
@@ -1060,3 +1060,4 @@ label, legend {
     margin-bottom:30px;
     text-shadow: 2px 1px 0 rgba(0,0,0,.75);
   }
+

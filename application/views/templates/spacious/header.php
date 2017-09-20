@@ -79,7 +79,7 @@
  </div>
 
  <!--====================== NAVBAR MENU START===================-->
- <nav class="navbar navbar-default">
+ <nav class="navbar navbar-default" role="navigation">
    <div class="container">
      <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
