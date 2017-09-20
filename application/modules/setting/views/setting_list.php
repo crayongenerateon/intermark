@@ -17,7 +17,7 @@
     <div class="col-md-8">
         <div class="row">
             <div class="col-md-4">
-                <label>Gambar popup</label>
+                <label>Iklan Promo</label>
             </div>
             <div class="col-md-8">
                 <input type="checkbox" id="check" <?php echo $favicon['setting_value'] != '-' ? 'checked' : NULL ?> name="upload">
@@ -51,7 +51,7 @@
     <?php echo form_close() ?>
     <div class="col-md-4">
         <div class="alert alert-info">
-            Kolom tidak boleh kosong, Jika ingin di nonaktifkan silakan beri tanda ( - ) pada kolom yang tersedia.
+            Jika ingin di nonaktifkan silakan klik centang pada kolom yang tersedia.
         </div>
     </div>
 </div>

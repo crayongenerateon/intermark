@@ -74,7 +74,7 @@
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+        <h4 class="modal-title" id="myModalLabel">Intermark</h4>
       </div>
       <div class="modal-body">
        <div style="position:relative;height:0;padding-bottom:58.29%"><iframe src="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="618" height="360" frameborder="0" allowfullscreen></iframe></div>
@@ -86,8 +86,7 @@
 </div>
 </div>
 
-
-<?php if ($show_popup['setting_value'] == 0): ?>
+<?php if ($favicon['setting_value'] != '-'): ?>
 <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">
 
   <div class="modal-dialog">
