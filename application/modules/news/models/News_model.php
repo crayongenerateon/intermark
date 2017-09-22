@@ -116,6 +116,8 @@ class News_model extends CI_Model {
 
     // Delete to database
 	function delete($id) {
+		$this->db->where('news_news_id', $id);
+		$this->db->delete('news_image');
 		$this->db->where('news_id', $id);
 		$this->db->delete('news');
 	}
