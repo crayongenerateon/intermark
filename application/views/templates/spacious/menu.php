@@ -26,7 +26,7 @@
 </ul>
 </div>
 -->
-<div class="col-sm-4 col-xs-12 text-right">
+
   <ul class="tools">                    
    <li>
      <a href="<?php echo base_url() ?>"><small>Home</small></a>                  
@@ -41,4 +41,3 @@
      <a href="<?php echo site_url('contact/index') ?>"><small>Contact</small></a>                  
    </li>                   
  </ul>
-</div>

@@ -72,7 +72,9 @@
          </div>
          <div class="col-sm-4 text-center">
          </div>
+         <div class="col-sm-4 col-xs-12 text-right">
          <?php echo $this->template->load('menu'); ?>
+       </div>
        </div>
      </div>
    </nav>   <!--TOP-NAVBAR-END-->

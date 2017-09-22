@@ -89,6 +89,11 @@ h3 {
 }
 
 /*////////////////TOP NAV BAR////////////////*/
+.container-fluid.main{
+  position: relative; /* To make the navbar positions relative to this container */
+  padding: 0;
+  z-index: 0;
+}
 
 .top-bar{
   background-color:black;
@@ -217,12 +222,6 @@ of those sections to manage the look and feel of the site. */
     display: none;
   }
 
-}
-
-.container-fluid.main{
-  position: relative; /* To make the navbar positions relative to this container */
-  padding: 0;
-  z-index: 100;
 }
 
 
