@@ -27,17 +27,33 @@
 </div>
 -->
 
-  <ul class="tools">                    
-   <li>
-     <a href="<?php echo base_url() ?>"><small>Home</small></a>                  
-   </li>
-   <li>
-     <a href="<?php echo site_url('career/index') ?>"><small>Career</small></a>                  
-   </li>
-   <li>
-     <a href="<?php echo site_url('news/index') ?>"><small>News</small></a>                  
-   </li>
-   <li>
-     <a href="<?php echo site_url('contact/index') ?>"><small>Contact</small></a>                  
-   </li>                   
- </ul>
+<ul class="tools hidden-lg hidden-md">                    
+ <li>
+   <a href="<?php echo base_url() ?>"><small>Home</small></a>                  
+ </li>
+ <li>
+   <a href="<?php echo site_url('career/index') ?>"><small>Career</small></a>                  
+ </li>
+ <li>
+   <a href="<?php echo site_url('news/index') ?>"><small>News</small></a>                  
+ </li>
+ <li>
+   <a href="<?php echo site_url('contact/index') ?>"><small>Contact</small></a>                  
+ </li>                   
+</ul>
+
+
+<ul class="nav navbar-nav pull-right hidden-sm hidden-xs">
+ <li>
+   <a href="<?php echo base_url() ?>"><small>Home</small></a>                  
+ </li>
+ <li>
+   <a href="<?php echo site_url('career/index') ?>"><small>Career</small></a>                  
+ </li>
+ <li>
+   <a href="<?php echo site_url('news/index') ?>"><small>News</small></a>                  
+ </li>
+ <li>
+   <a href="<?php echo site_url('contact/index') ?>"><small>Contact</small></a>                  
+ </li> 
+</ul>
