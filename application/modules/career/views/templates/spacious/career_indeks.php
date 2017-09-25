@@ -1,4 +1,4 @@
-  <section class="about-section" style="margin-top: 60px;">
+  <section class="about-section" style="margin-top: 120px;">
    <div class="container">
      <div class="row">
        <?php foreach ($career as $row): ?>

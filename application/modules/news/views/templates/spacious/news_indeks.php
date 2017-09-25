@@ -1,4 +1,4 @@
-<section class="about-section" style="margin-top: 80px;">
+<section class="about-section" style="margin-top: 120px;">
   <center>
     <h1 class="title">NEWS & UPDATE</h1>
     <h5>“You are the creator for your own future.”</h5>
