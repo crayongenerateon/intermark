@@ -105,7 +105,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="<?php echo site_url('page/associate_tower') ?>" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"> Mezzanine</a></li>
             <li><a href="#"> 2nd – 7th Floor</a></li>
@@ -114,7 +114,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/tuscany_residence') ?>" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
+          <a href=#" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"> Studio</a></li>
             <li><a href="#"> 1+1 Bedroom</a></li>
@@ -124,7 +124,7 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/swiss_belhotel') ?>" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"> Deluxe</a></li>
             <li><a href="#"> Grand Deluxe</a></li>
@@ -132,13 +132,13 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/merdeka_assembly_hall') ?>" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"> Merdeka Ballroom</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/commercial') ?>" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <li><a href="#"> Tenant</a></li>
             <li><a href="#"> Lease</a></li>
@@ -162,43 +162,44 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li class="dropdown">
-          <a href="<?php echo site_url('page/associate_tower') ?>" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"> Mezzanine</a></li>
-            <li><a href="#"> 2nd – 7th Floor</a></li>
-            <li><a href="#"> 9th – 20th Floor</a></li>
-            <li><a href=""> 8th Floor</a></li>
+            <li><a href="<?php echo site_url('page/associate_tower/mezzanine') ?>"> Mezzanine</a></li>
+            <li><a href="<?php echo site_url('page/associate_tower/2nd-7th_Floor') ?>"> 2nd – 7th Floor</a></li>
+            <li><a href="<?php echo site_url('page/associate_tower/9th-20th_Floor') ?>"> 9th – 20th Floor</a></li>
+            <li><a href="<?php echo site_url('page/associate_tower/8th_Floor') ?>"> 8th Floor</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/tuscany_residence') ?>" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"> Studio</a></li>
-            <li><a href="#"> 1+1 Bedroom</a></li>
-            <li><a href="#"> 2 Bedroom</a></li>
-            <li><a href="#"> Executive Suite</a></li>
-            <li><a href="#"> Joint Unit</a></li>
+            <li><a href="<?php echo site_url('page/tuscany_residence/studio') ?>"> Studio</a></li>
+            <li><a href="<?php echo site_url('page/tuscany_residence/1_Bedroom') ?>"> 1+1 Bedroom</a></li>
+            <li><a href="<?php echo site_url('page/tuscany_residence/2_Bedroom') ?>"> 2 Bedroom</a></li>
+            <li><a href="<?php echo site_url('page/tuscany_residence/executive_suite') ?>"> Executive Suite</a></li>
+            <li><a href="<?php echo site_url('page/tuscany_residence/joint_unit') ?>"> Joint Unit</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/swiss_belhotel') ?>" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"> Deluxe</a></li>
-            <li><a href="#"> Grand Deluxe</a></li>
-            <li><a href="#"> Suite Room</a></li>
+            <li><a href="<?php echo site_url('page/swiss_belhotel/delux') ?>"> Deluxe</a></li>
+            <li><a href="<?php echo site_url('page/swiss_belhotel/grand_delux') ?>"> Grand Deluxe</a></li>
+            <li><a href="<?php echo site_url('page/swiss_belhotel/suite_room') ?>"> Suite Room</a></li>
+            <li><a href="<?php echo site_url('page/swiss_belhotel/floor') ?>"> Floor</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/merdeka_assembly_hall') ?>" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"> Merdeka Ballroom</a></li>
+            <li><a href="<?php echo site_url('page/merdeka_assembly_hall/merdeka_ballroom') ?>"> Merdeka Ballroom</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="<?php echo site_url('page/commercial') ?>" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="#"> Tenant</a></li>
-            <li><a href="#"> Lease</a></li>
+            <li><a href="<?php echo site_url('page/commercial/tenant') ?>"> Tenant</a></li>
+            <li><a href="<?php echo site_url('page/commercial/lease') ?>"> Lease</a></li>
           </ul>
         </li>     
       </ul>

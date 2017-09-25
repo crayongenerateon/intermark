@@ -17,31 +17,42 @@ class Page extends CI_Controller {
 
     public function associate_tower()
     {
-        $data['main'] = 'page/associate_tower';
+        $data['main'] = 'Associate_tower/mezzanine';
+        $data['main'] = 'Associate_tower/2nd-7th_Floor';
+        $data['main'] = 'Associate_tower/9th-20th_Floor';
+        $data['main'] = 'Associate_tower/8th_Floor';
         $this->load->view('layout', $data);   
     }
 
     public function tuscany_residence()
     {
-        $data['main'] = 'page/tuscany_residence';
+        $data['main'] = 'Tuscany_residence/studio';
+        $data['main'] = 'Tuscany_residence/1_Bedroom';
+        $data['main'] = 'Tuscany_residence/2_Bedroom';
+        $data['main'] = 'Tuscany_residence/executive_suite';
+        $data['main'] = 'Tuscany_residence/join_unit';
         $this->load->view('layout', $data);
     }
 
     public function swiss_belhotel()
     {
-        $data['main'] = 'page/swiss_belhotel';
+        $data['main'] = 'Swiss_belhotel/delux';
+        $data['main'] = 'Swiss_belhotel/floor';
+        $data['main'] = 'Swiss_belhotel/grand_delux';
+        $data['main'] = 'Swiss_belhotel/suit_room';
         $this->load->view('layout', $data);
     }
 
     public function merdeka_assembly_hall()
     {
-        $data['main'] = 'page/merdeka_assembly_hall';
+        $data['main'] = 'Merdeka_assembly/merdeka_ballroom';
         $this->load->view('layout', $data);
     }
 
     public function commercial()
     {
-        $data['main'] = 'page/commercial';
+        $data['main'] = 'Commercial/lease';
+        $data['main'] = 'Commercial/tenant';
         $this->load->view('layout', $data);
     }
 
