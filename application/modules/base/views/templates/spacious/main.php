@@ -9,6 +9,7 @@
     <li data-target="#bs-carousel" data-slide-to="2"></li>
     <li data-target="#bs-carousel" data-slide-to="3"></li>
     <li data-target="#bs-carousel" data-slide-to="4"></li>
+    <li data-target="#bs-carousel" data-slide-to="5"></li>
   </ol>
 
   <!-- Wrapper for slides -->
@@ -64,6 +65,16 @@
         </hgroup>
       </div>
     </div>
+     <div class="item slides">
+      <div class="slide-6"></div>
+      <div class="hero">        
+        <hgroup>
+          <h1>Associate Tower</h1>        
+          <h3>Associate Tower is a premium 18 storey office building in Intermark with wide landscape and multiple-tenant ready concept in a modern contemporary architecture and three level basement design.</h3>
+          <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
+        </hgroup>       
+      </div>
+    </div>
 
   </div> 
 </div>
@@ -87,12 +98,12 @@
 </div>
 
 <?php if ($favicon['setting_value'] != '-'): ?>
-<div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">
+  <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">
 
-  <div class="modal-dialog">
+    <div class="modal-dialog">
 
-    <!-- Modal content-->
-    <div class="modal-content">
+      <!-- Modal content-->
+      <div class="modal-content">
      <!--    <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">×</button>
           <h4 class="modal-title"><i class="fa fa-exclamation-circle"></i>Your title goes here</h4>
