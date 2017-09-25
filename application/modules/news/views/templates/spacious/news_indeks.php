@@ -11,6 +11,7 @@
             <div class="card" style="margin-bottom: 20px;">
               <img src="<?php echo $row['news_image'] ?>" class="img-responsive" width="100%">
               <h4><?php echo $row['news_title'] ?></h4>
+              <small><?php echo pretty_date($row['date_created'], 'l, d-m-Y', FALSE) ?></small>
               <p><?php echo strip_tags(character_limiter($row['news_description'], 50)) ?></p>
               <a href="<?php echo news_url($row) ?>" class="blue-button">Read More</a>
             </div>

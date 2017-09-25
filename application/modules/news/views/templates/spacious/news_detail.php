@@ -6,6 +6,7 @@
           <div class="card" style="text-align: left;">
             <img src="<?php echo $news['news_image'] ?>" class="img-responsive" width="100%" style="height: 500px; min-height: 150px; overflow: hidden;">
             <h4><?php echo $news['news_title'] ?></h4>
+            <small><?php echo pretty_date($news['date_created'], 'l, d-m-Y', FALSE) ?></small>
             <p><?php echo $news['news_content'] ?></p>
             <br>
           </div>
