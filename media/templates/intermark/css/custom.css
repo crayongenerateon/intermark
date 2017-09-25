@@ -174,8 +174,23 @@ h3 {
 /* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
 The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
 of those sections to manage the look and feel of the site. */
-
-
+.modal-body {
+    position: relative;
+    padding: 5px;
+}
+.modal {
+    display: none;
+    overflow: auto;
+    overflow-y: inherit;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1050;
+    -webkit-overflow-scrolling: touch;
+    outline: 0;
+}
 .about-section {
   /* background: #e9eff3; */
   /*background: #fff url(../images/city02.png) bottom center no-repeat;*/
