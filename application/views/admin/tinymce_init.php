@@ -15,7 +15,7 @@
         selector: 'textarea',
         plugins: "table paste link autolink code",
         tools: "inserttable",
-        toolbar1: "uploadimage table | bold italic underline| alignleft aligncenter alignright alignjustify | styleselect formatselect fontsizeselect | link unlink",
+        toolbar1: "formatselect | bold italic strikethrough forecolor backcolor | link | alignleft aligncenter alignright alignjustify  | numlist bullist outdent indent  | removeformat",
         paste_as_text: true
     });
 
