@@ -5,8 +5,7 @@
          <div class="index-content">
           <div class="card" style="text-align: left;">
             <img src="<?php echo $news['news_image'] ?>" class="img-responsive" width="100%" style="height: 500px; min-height: 150px; overflow: hidden;">
-            <h4><?php echo $news['news_title'] ?></h4>
-            <small><?php echo pretty_date($news['date_created'], 'l, d-m-Y', FALSE) ?></small>
+            <h4><?php echo $news['news_title'] ?> <small class="text-danger pull-right"><i><?php echo pretty_date($news['date_created'], 'l, d-m-Y', FALSE) ?></i></small></h4>
             <p><?php echo $news['news_content'] ?></p>
             <br>
           </div>
