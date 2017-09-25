@@ -781,6 +781,9 @@ label, legend {
   margin:20px;
   opacity: 0.65;
 }
+.index-content .card small{
+  margin:0px;
+}
 .index-content .blue-button{
   width: 100px;
   -webkit-transition: background-color 1s , color 1s; /* For Safari 3.1 to 6.0 */
