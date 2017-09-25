@@ -176,7 +176,8 @@ The padding is very important to make sure the scrollspy picks up the right area
 of those sections to manage the look and feel of the site. */
 .modal-body {
     position: relative;
-    padding: 5px;
+    padding: 0px;
+    color: #000;
 }
 .modal {
     display: none;
