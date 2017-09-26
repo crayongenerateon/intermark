@@ -164,10 +164,10 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url('page/associate_tower/mezzanine') ?>"> Mezzanine</a></li>
-            <li><a href="<?php echo site_url('page/associate_tower/2nd-7th_Floor') ?>"> 2nd – 7th Floor</a></li>
-            <li><a href="<?php echo site_url('page/associate_tower/9th-20th_Floor') ?>"> 9th – 20th Floor</a></li>
-            <li><a href="<?php echo site_url('page/associate_tower/8th_Floor') ?>"> 8th Floor</a></li>
+            <li><a href="<?php echo site_url('page/mezzanine') ?>"> Mezzanine</a></li>
+            <li><a href="<?php echo site_url('page/low_zone') ?>"> 2nd – 7th Floor</a></li>
+            <li><a href="<?php echo site_url('page/high_zone') ?>"> 9th – 20th Floor</a></li>
+            <li><a href="<?php echo site_url('page/eigthFloor') ?>"> 8th Floor</a></li>
           </ul>
         </li>
         <li class="dropdown">

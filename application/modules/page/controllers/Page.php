@@ -15,13 +15,28 @@ class Page extends CI_Controller {
         redirect('layout');
     }
 
-    public function associate_tower()
+    public function mezzanine()
     {
         $data['main'] = 'Associate_tower/mezzanine';
+        $this->load->view('layout', $data);
+    }
+
+    public function low_zone()
+    {
         $data['main'] = 'Associate_tower/2nd-7th_Floor';
-        $data['main'] = 'Associate_tower/9th-20th_Floor';
-        $data['main'] = 'Associate_tower/8th_Floor';
         $this->load->view('layout', $data);   
+    }
+
+    public function high_zone()
+    {
+        $data['main'] = 'Associate_tower/9th-20th_Floor';
+        $this->load->view('layout', $data);
+    }
+
+    public function eigthFloor()
+    {
+        $data['main'] = 'Associate_tower/8th_Floor';
+        $this->load->view('layout', $data);
     }
 
     public function tuscany_residence()
