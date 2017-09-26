@@ -183,10 +183,10 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url('page/swiss_belhotel/delux') ?>"> Deluxe</a></li>
-            <li><a href="<?php echo site_url('page/swiss_belhotel/grand_delux') ?>"> Grand Deluxe</a></li>
-            <li><a href="<?php echo site_url('page/swiss_belhotel/suite_room') ?>"> Suite Room</a></li>
-            <li><a href="<?php echo site_url('page/swiss_belhotel/floor') ?>"> Floor</a></li>
+            <li><a href="<?php echo site_url('page/delux') ?>"> Deluxe</a></li>
+            <li><a href="<?php echo site_url('page/grand_delux') ?>"> Grand Deluxe</a></li>
+            <li><a href="<?php echo site_url('page/suite_room') ?>"> Suite Room</a></li>
+            <li><a href="<?php echo site_url('page/floor') ?>"> Floor</a></li>
           </ul>
         </li>
         <li class="dropdown">

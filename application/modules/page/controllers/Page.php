@@ -71,11 +71,27 @@ class Page extends CI_Controller {
         $this->load->view('layout', $data);
     }
 
-    public function swiss_belhotel()
+    //swiss belhotel
+    public function delux()
     {
         $data['main'] = 'Swiss_belhotel/delux';
+        $this->load->view('layout', $data);
+    }
+
+    public function floor()
+    {
         $data['main'] = 'Swiss_belhotel/floor';
+        $this->load->view('layout', $data);
+    }
+
+    public function grand_delux()
+    {
         $data['main'] = 'Swiss_belhotel/grand_delux';
+        $this->load->view('layout', $data);
+    }
+
+    public function suit_room()
+    {
         $data['main'] = 'Swiss_belhotel/suit_room';
         $this->load->view('layout', $data);
     }
