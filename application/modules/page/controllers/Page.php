@@ -15,6 +15,7 @@ class Page extends CI_Controller {
         redirect('layout');
     }
 
+    //associate tower
     public function mezzanine()
     {
         $data['main'] = 'Associate_tower/mezzanine';
@@ -39,12 +40,33 @@ class Page extends CI_Controller {
         $this->load->view('layout', $data);
     }
 
-    public function tuscany_residence()
+    //tuscany residence
+    public function studio_type()
     {
         $data['main'] = 'Tuscany_residence/studio';
+        $this->load->view('layout', $data);
+    }
+
+    public function one_bedroom()
+    {
         $data['main'] = 'Tuscany_residence/1_Bedroom';
+        $this->load->view('layout', $data);
+    }
+
+    public function two_bedroom()
+    {
         $data['main'] = 'Tuscany_residence/2_Bedroom';
+        $this->load->view('layout', $data);
+    }
+
+    public function executive_suite()
+    {
         $data['main'] = 'Tuscany_residence/executive_suite';
+        $this->load->view('layout', $data);
+    }
+
+    public function join_unit()
+    {
         $data['main'] = 'Tuscany_residence/join_unit';
         $this->load->view('layout', $data);
     }

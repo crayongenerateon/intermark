@@ -173,11 +173,11 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url('page/tuscany_residence/studio') ?>"> Studio</a></li>
-            <li><a href="<?php echo site_url('page/tuscany_residence/1_Bedroom') ?>"> 1+1 Bedroom</a></li>
-            <li><a href="<?php echo site_url('page/tuscany_residence/2_Bedroom') ?>"> 2 Bedroom</a></li>
-            <li><a href="<?php echo site_url('page/tuscany_residence/executive_suite') ?>"> Executive Suite</a></li>
-            <li><a href="<?php echo site_url('page/tuscany_residence/joint_unit') ?>"> Joint Unit</a></li>
+            <li><a href="<?php echo site_url('page/studio_type') ?>"> Studio</a></li>
+            <li><a href="<?php echo site_url('page/one_bedroom') ?>"> 1+1 Bedroom</a></li>
+            <li><a href="<?php echo site_url('page/two_bedroom') ?>"> 2 Bedroom</a></li>
+            <li><a href="<?php echo site_url('page/executive_suite') ?>"> Executive Suite</a></li>
+            <li><a href="<?php echo site_url('page/joint_unit') ?>"> Joint Unit</a></li>
           </ul>
         </li>
         <li class="dropdown">
