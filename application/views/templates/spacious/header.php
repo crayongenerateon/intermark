@@ -192,7 +192,7 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url('page/merdeka_assembly_hall/merdeka_ballroom') ?>"> Merdeka Ballroom</a></li>
+            <li><a href="<?php echo site_url('page/merdeka_ballroom') ?>"> Merdeka Ballroom</a></li>
           </ul>
         </li>
         <li class="dropdown">

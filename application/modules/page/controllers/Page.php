@@ -96,7 +96,8 @@ class Page extends CI_Controller {
         $this->load->view('layout', $data);
     }
 
-    public function merdeka_assembly_hall()
+    //merdeka assembly hall
+    public function merdeka_ballroom()
     {
         $data['main'] = 'Merdeka_assembly/merdeka_ballroom';
         $this->load->view('layout', $data);
