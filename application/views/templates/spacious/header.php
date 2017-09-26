@@ -198,8 +198,8 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
           <ul class="dropdown-menu">
-            <li><a href="<?php echo site_url('page/commercial/tenant') ?>"> Tenant</a></li>
-            <li><a href="<?php echo site_url('page/commercial/lease') ?>"> Lease</a></li>
+            <li><a href="<?php echo site_url('page/tenant') ?>"> Tenant</a></li>
+            <li><a href="<?php echo site_url('page/lease') ?>"> Lease</a></li>
           </ul>
         </li>     
       </ul>

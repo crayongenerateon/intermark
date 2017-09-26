@@ -103,10 +103,16 @@ class Page extends CI_Controller {
         $this->load->view('layout', $data);
     }
 
-    public function commercial()
+    //commercial
+    public function tenant()
+    {   
+        $data['main'] = 'Commercial/tenant';
+        $this->load->view('layout', $data);
+    }
+
+    public function lease()
     {
         $data['main'] = 'Commercial/lease';
-        $data['main'] = 'Commercial/tenant';
         $this->load->view('layout', $data);
     }
 
