@@ -198,7 +198,7 @@ of those sections to manage the look and feel of the site. */
   background-size: 100% auto;
   background-blend-mode: multiply;
   content: " ";
-  padding: 60px 0 100px 0px;
+  padding: 60px 0 80px 0px;
 }
 
 .contact-section {
