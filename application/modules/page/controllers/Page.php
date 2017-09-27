@@ -49,7 +49,7 @@ class Page extends CI_Controller {
 
     public function one_bedroom()
     {
-        $data['main'] = 'Tuscany_residence/1_Bedroom';
+        $data['main'] = 'Tuscany_residence/1+1_Bedroom';
         $this->load->view('layout', $data);
     }
 
@@ -65,9 +65,9 @@ class Page extends CI_Controller {
         $this->load->view('layout', $data);
     }
 
-    public function join_unit()
+    public function joint_unit()
     {
-        $data['main'] = 'Tuscany_residence/join_unit';
+        $data['main'] = 'Tuscany_residence/joint_unit';
         $this->load->view('layout', $data);
     }
 
