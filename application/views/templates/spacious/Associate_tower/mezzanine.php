@@ -3,12 +3,12 @@
     <div class="container">
       <div class="col-lg-8 pull">
         <center>
-          <img src="<?php echo base_url() ?>\uploads\AssociateTower\Ground & Mezzanine\ground&mezzanine.jpg" class="img-responsive" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\Ground & Mezzanine\ground&mezzanine.jpg" class="img-responsive" alt="intermark" width="100%">
         </center>
       </div>
       <div class="col-lg-4 push">
         <center>
-          <img src="<?php echo base_url() ?>\uploads\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
           <h1 class="title" style="color: #ff3c00;">Mezzanine</h1>
         </center>
       </div>

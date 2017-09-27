@@ -73,82 +73,87 @@
          <div class="col-sm-4 text-center">
          </div>
          <div class="col-sm-4 col-xs-12 text-right">
-         <?php echo $this->template->load('menu'); ?>
-       </div>
+           <?php echo $this->template->load('menu'); ?>
+         </div>
        </div>
      </div>
    </nav>   <!--TOP-NAVBAR-END-->
  </div>
 
-   <div class="navbar navbar-inverse navbar-fixed-top hidden-sm hidden-xs" role="navigation">  
-      <div class="container">
-      <div class="collapse navbar-collapse">
-         <?php echo $this->template->load('menu'); ?>
+ <div class="navbar navbar-inverse navbar-fixed-top hidden-sm hidden-xs" role="navigation">  
+  <div class="container">
+    <div class="collapse navbar-collapse">
+     <?php echo $this->template->load('menu'); ?>
 
-      </div>
-    </div>
+   </div>
+ </div>
+</div>
+
+
+<!--====================== NAVBAR MENU START===================-->
+<!-- Mode Mobile Device -->
+<nav class="navbar navbar-inverse hidden-lg hidden-md" role="navigation">
+ <div class="container">
+   <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>                        
+    </button>
+    <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-xs" width="20%" style="margin-top: -25px;"></a>
+    <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-lg hidden-md hidden-sm" width="45%" style="margin-top: -29px;"></a>
   </div>
-
-
- <!--====================== NAVBAR MENU START===================-->
- <nav class="navbar navbar-inverse hidden-lg hidden-md" role="navigation">
-   <div class="container">
-     <div class="navbar-header">
-      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>                        
-      </button>
-      <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-xs" width="20%" style="margin-top: -25px;"></a>
-      <a class="navbar-brand" href="#"><img src="<?php echo base_url() ?>media/templates/intermark/images/ico/Nazih.png" class=" hidden-lg hidden-md hidden-sm" width="45%" style="margin-top: -29px;"></a>
-    </div>
-    <div class="collapse navbar-collapse" id="myNavbar">
-      <ul class="nav navbar-nav navbar-right">
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#"> Mezzanine</a></li>
-            <li><a href="#"> 2nd – 7th Floor</a></li>
-            <li><a href="#"> 9th – 20th Floor</a></li>
-            <li><a href=""> 8th Floor</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href=#" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#"> Studio</a></li>
-            <li><a href="#"> 1+1 Bedroom</a></li>
-            <li><a href="#"> 2 Bedroom</a></li>
-            <li><a href="#"> Executive Suite</a></li>
-            <li><a href="#"> Joint Unit</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#"> Deluxe</a></li>
-            <li><a href="#"> Grand Deluxe</a></li>
-            <li><a href="#"> Suite Room</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#"> Merdeka Ballroom</a></li>
-          </ul>
-        </li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#"> Tenant</a></li>
-            <li><a href="#"> Lease</a></li>
-          </ul>
-        </li>     
-      </ul>
-    </div>
+  <div class="collapse navbar-collapse" id="myNavbar">
+    <ul class="nav navbar-nav navbar-right">
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Associate Tower <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="<?php echo site_url('page/mezzanine') ?>"> Mezzanine</a></li>
+          <li><a href="<?php echo site_url('page/low_zone') ?>"> 2nd – 7th Floor</a></li>
+          <li><a href="<?php echo site_url('page/high_zone') ?>"> 9th – 20th Floor</a></li>
+          <li><a href="<?php echo site_url('page/eigthFloor') ?>"> 8th Floor</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Tuscany Residence <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="<?php echo site_url('page/studio_type') ?>"> Studio</a></li>
+          <li><a href="<?php echo site_url('page/one_bedroom') ?>"> 1+1 Bedroom</a></li>
+          <li><a href="<?php echo site_url('page/two_bedroom') ?>"> 2 Bedroom</a></li>
+          <li><a href="<?php echo site_url('page/executive_suite') ?>"> Executive Suite</a></li>
+          <li><a href="<?php echo site_url('page/joint_unit') ?>"> Joint Unit</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Swiss-Belhotel <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="<?php echo site_url('page/delux') ?>"> Deluxe</a></li>
+          <li><a href="<?php echo site_url('page/grand_delux') ?>"> Grand Deluxe</a></li>
+          <li><a href="<?php echo site_url('page/suite_room') ?>"> Suite Room</a></li>
+          <li><a href="<?php echo site_url('page/floor') ?>"> Floor</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Merdeka Assembly Hall <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="<?php echo site_url('page/merdeka_ballroom') ?>"> Merdeka Ballroom</a></li>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Commercial <span class="caret"></span></a>
+        <ul class="dropdown-menu">
+          <li><a href="<?php echo site_url('page/tenant') ?>"> Tenant</a></li>
+          <li><a href="<?php echo site_url('page/lease') ?>"> Lease</a></li>
+        </ul>
+      </li>     
+    </ul>
   </div>
+</div>
 </nav>
-<nav class="navbar navbar-default hidden-xs hidden-sm" role="navigation">
+<!-->
+
+  <!- Mode Desktop-->
+  <nav class="navbar navbar-default hidden-xs hidden-sm" role="navigation">
    <div class="container">
      <div class="navbar-header">
       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
@@ -207,5 +212,5 @@
   </div>
 </nav>
 
-
+<!-->
 

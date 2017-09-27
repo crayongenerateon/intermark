@@ -1,17 +1,19 @@
 <section class="about-section" style="margin-top: 120px;">
-	<center>
-    <img src="<?php echo base_url() ?>\uploads\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="10%">
-		<h1 class="title">2nd-7th Floor</h1>
-	</center>
 	<div class="index-content">
 		<div class="container">
-      <div class="col-lg-12">
+      <div class="col-lg-8">
         <center>
-         <img src="<?php echo base_url() ?>\uploads\AssociateTower\2nd-7th Floor\lowzone.jpg" class="img-responsive" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\2nd-7th Floor\lowzone.jpg" class="img-responsive" alt="intermark" width="100%">
        </center>
      </div>
-   </div>
- </div>
+     <div class="col-lg-4">
+      <center>
+        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
+        <h1 class="title" style="color: #ff3c00;">2nd-7th Floor</h1>
+      </center>
+    </div>
+  </div>
+</div>
 </section>
 
 

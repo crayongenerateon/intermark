@@ -7,16 +7,16 @@
     <div class="container">
       <div class="col-lg-6">
         <center>
-         <img src="<?php echo base_url() ?>\uploads\AssociateTower\8th Floor\8thFloor.jpg" class="img-responsive" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\8th Floor\8thFloor.jpg" class="img-responsive" alt="intermark" width="100%">
        </center>
      </div>
      <br>
      <div class="col-lg-6">
       <center>
-        <img src="<?php echo base_url() ?>\uploads\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V1.jpg" class="img-responsive thumbnail" alt="intermark" width="100%"><br>
+        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V1.jpg" class="img-responsive thumbnail" alt="intermark" width="100%"><br>
       </center>
       <center>
-       <img src="<?php echo base_url() ?>\uploads\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V2.jpg" class="img-responsive thumbnail" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V2.jpg" class="img-responsive thumbnail" alt="intermark" width="100%">
      </center>
    </div>
 
