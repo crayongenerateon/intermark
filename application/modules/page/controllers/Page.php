@@ -90,7 +90,7 @@ class Page extends CI_Controller {
         $this->load->view('layout', $data);
     }
 
-    public function suit_room()
+    public function suite_room()
     {
         $data['main'] = 'Swiss_belhotel/suit_room';
         $this->load->view('layout', $data);
