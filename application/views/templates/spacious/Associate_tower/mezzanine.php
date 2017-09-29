@@ -3,7 +3,7 @@
     <div class="container">
       <div class="col-lg-8 pull">
         <center>
-          <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\Ground & Mezzanine\ground&mezzanine.jpg" class="img-responsive" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\media\image\AssociateTower\Ground & Mezzanine\ground&mezzanine.jpg" class="img-responsive" alt="intermark" width="100%">
         </center>
       </div>
       <div class="col-lg-4 push">
