@@ -1,18 +1,40 @@
 <section class="about-section" style="margin-top: 120px;">
   <div class="index-content">
     <div class="container">
-      <div class="col-lg-8">
+      <div class="col-lg-9">
+       <div class="col-lg-6">
         <center>
-         <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\9th-20th Floor\highzone.jpg" class="img-responsive" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\9th-20th Floor\highzone.jpg" class="img-responsive" alt="intermark" width="100%">
        </center>
      </div>
-     <div class="col-lg-4">
-       <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
-        <h1 class="title" style="color: #ff3c00;">9th-20th Floor</h1>
-      </center>
-    </div>
+       <div class="col-lg-6">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\9th-20th Floor\highzone.jpg" class="img-responsive" alt="intermark" width="100%"><br>
+       </center>
+     </div>
+       <div class="col-lg-6">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\9th-20th Floor\highzone.jpg" class="img-responsive" alt="intermark" width="100%">
+       </center>
+     </div>
+       <div class="col-lg-6">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\9th-20th Floor\highzone.jpg" class="img-responsive" alt="intermark" width="100%"><br>
+       </center>
+     </div>
+       <div class="col-lg-12">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\9th-20th Floor\highzone.jpg" class="img-responsive" alt="intermark" width="100%">
+       </center>
+     </div>
+   </div>
+   <div class="col-lg-3">
+     <center>
+      <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
+      <h1 class="title" style="color: #ff3c00;">9th-20th Floor</h1>
+    </center>
   </div>
+</div>
 </div>
 </section>
 

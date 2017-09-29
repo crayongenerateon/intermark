@@ -3,22 +3,22 @@
   <div class="container">
     <div class="col-lg-3">
       <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\EDC.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+        <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\EDC.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
       </center>
     </div>
     <div class="col-lg-3">
      <center>
-      <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\maxx.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+      <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\maxx.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
     </center>
   </div>
   <div class="col-lg-3">
     <center>
-      <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\dunkin donuta.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+      <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\dunkin donuta.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
     </center>
   </div>
   <div class="col-lg-3">
    <center>
-    <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\FOLKS.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\FOLKS.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
   </center>
 </div>
 </div>
@@ -26,27 +26,27 @@
 <div class="container">
 <div class="col-lg-3">
   <center>
-    <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\WarungTekko-Logo.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
   </center>
 </div>
 <div class="col-lg-3">
  <center>
-  <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\juan.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+  <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
 </center>
 </div>
 <div class="col-lg-3">
   <center>
-    <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\foodmart-1.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\foodmart-1.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
   </center>
 </div>
 <div class="col-lg-3">
  <center>
-  <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\saint cinnamo.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+  <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\saint cinnamo.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
 </center>
 </div>
 <div class="col-lg-3">
  <center>
-  <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Tenant\bhineka.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+  <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png" class="img-responsive animated bounceIn" alt="intermark" width="100%">
 </center>
 </div>
 </div>

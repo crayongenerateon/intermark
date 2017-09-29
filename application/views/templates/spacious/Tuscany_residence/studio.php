@@ -1,14 +1,36 @@
 <section class="about-section" style="margin-top: 120px;">
   <div class="index-content">
     <div class="container">
-      <div class="col-lg-8">
-        <center>
-         <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
-       </center>
+      <div class="col-lg-9">
+        <div class="col-lg-6">
+          <center>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+         </center>
+       </div>
+        <div class="col-lg-6">
+          <center>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
+         </center>
+       </div>
+        <div class="col-lg-6">
+          <center>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+         </center>
+       </div>
+        <div class="col-lg-6">
+          <center>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
+         </center>
+       </div>
+        <div class="col-lg-12">
+          <center>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+         </center>
+       </div>
      </div>
-     <div class="col-lg-4">
+     <div class="col-lg-3">
        <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+        <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
         <h1 class="title" style="color: #ff3c00;">Studio</h1>
       </center>
     </div>

@@ -6,12 +6,12 @@
   <div class="container">
     <div class="col-lg-6">
       <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Lease\sales handbook_Page_47.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+        <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_47.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
    <div class="col-lg-6">
      <center>
-      <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Lease\sales handbook_Page_48.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+      <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_48.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
  </div>
@@ -19,12 +19,12 @@
  <div class="container">
   <div class="col-lg-6">
     <center>
-      <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Lease\sales handbook_Page_51.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+      <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_51.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
    </center>
  </div>
  <div class="col-lg-6">
    <center>
-    <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\Commercial\Lease\sales handbook_Page_52.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_52.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
    </center>
  </div>
 </div>

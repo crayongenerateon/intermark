@@ -1,18 +1,18 @@
 <section class="about-section" style="margin-top: 120px;">
   <center>
-    <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\0.png" class="img-responsive" alt="intermark" width="10%">
+    <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive" alt="intermark" width="10%">
     <h1 class="title" style="color: #ff3c00;">Executive Recidence</h1>
   </center>
   <div class="index-content">
     <div class="container">
       <div class="col-lg-6">
         <center>
-          <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\Executive Suite\Executive suite.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\Executive suite.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
         </center>
       </div>
       <div class="col-lg-6">
         <center>
-         <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\Executive Suite\InteriorExecutive suite.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\InteriorExecutive suite.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
        </center>
      </div>
    </div>
@@ -20,12 +20,12 @@
    <div class="container">
     <div class="col-lg-6">
       <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\Executive Suite\ESspec1.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+        <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESspec1.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
       </center>
     </div>
     <div class="col-lg-6">
       <center>
-       <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\Executive Suite\ESspec2.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESspec2.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
  </div>
@@ -33,12 +33,12 @@
  <div class="container">
     <div class="col-lg-6">
       <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\Executive Suite\ESlt1.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+        <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESlt1.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
       </center>
     </div>
     <div class="col-lg-6">
       <center>
-       <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\TuscanyResidence\Executive Suite\ESlt23-25.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESlt23-25.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
  </div>

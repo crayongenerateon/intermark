@@ -6,12 +6,12 @@
   <div class="container">
     <div class="col-lg-6">
       <center>
-       <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHall.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHall.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
    <div class="col-lg-6">
      <center>
-       <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHallDenah.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHallDenah.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
  </div>
