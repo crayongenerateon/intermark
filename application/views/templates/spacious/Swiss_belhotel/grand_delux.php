@@ -3,12 +3,12 @@
     <div class="container">
       <div class="col-lg-5">
         <center>
-         <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\SwissBelHotel\GrandDeluxe\GrandDeluxe.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\GrandDeluxe\GrandDeluxe.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-7">
        <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\SwissBelHotel\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+        <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
       </center>
     </div>
   </div>

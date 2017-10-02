@@ -1,22 +1,22 @@
 <section class="about-section" style="margin-top: 120px;">
 	<center>
-    <img src="<?php echo base_url() ?>\uploads\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="10%">
+    <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="10%">
     <h1 class="title">8th Floor</h1>
   </center>
   <div class="index-content">
     <div class="container">
       <div class="col-lg-6">
         <center>
-         <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\8th Floor\8thFloor.jpg" class="img-responsive" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.jpg" class="img-responsive" alt="intermark" width="100%">
        </center>
      </div>
      <br>
      <div class="col-lg-6">
       <center>
-        <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V1.jpg" class="img-responsive thumbnail" alt="intermark" width="100%"><br>
+        <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V1.jpg" class="img-responsive thumbnail" alt="intermark" width="100%"><br>
       </center>
       <center>
-       <img src="<?php echo base_url() ?>\media\templates\intermark\images\uplouds\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V2.jpg" class="img-responsive thumbnail" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V2.jpg" class="img-responsive thumbnail" alt="intermark" width="100%">
      </center>
    </div>
 

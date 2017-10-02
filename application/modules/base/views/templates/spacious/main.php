@@ -19,7 +19,7 @@
       <div class="hero">
         <hgroup>
           <h2>Introduction</h2>        
-          <h3>Intermark is a one of the kind mixed-use building that combines artistic facade and modern contemporary architecture concept that simply creates a beautiful modern time signature in the south-end of Jakarta Intermark is a one of the kind mixed-use bu</h3>
+          <h3>Intermark is a one of the kind mixed-use building that combines artistic facade and modern contemporary architecture concept that simply creates a beautiful modern time signature in the south-end of Jakarta Intermark is a one of the kind mixed-use building.</h3>
           <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
         </hgroup>
       </div>
