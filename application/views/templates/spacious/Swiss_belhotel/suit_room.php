@@ -3,7 +3,7 @@
     <div class="container">
       <div class="col-lg-5">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\SuiteRoom\suiteroom.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\SuiteRoom\suiteroom.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-7">

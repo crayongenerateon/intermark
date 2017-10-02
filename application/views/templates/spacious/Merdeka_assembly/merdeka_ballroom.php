@@ -1,20 +1,40 @@
-<section class="about-section" style="margin-top: 120px;">
- <center>
-  <h1 class="title">Merdeka Ballroom</h1>
-</center>
-<div class="index-content">
-  <div class="container">
-    <div class="col-lg-6">
+<section class="about-section" style="margin-top: 120px; overflow: hidden;">
+  <div class="index-content">
+    <div class="container">
+      <div class="col-lg-9 pull">
+        <div class="col-lg-6">
+        <center>
+          <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\Ballroom1.JPG" class="img-responsive" alt="intermark" width="100%">
+        </center>
+      </div>
+      <div class="col-lg-6">
+        <center>
+          <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\Ballroom2.JPG" class="img-responsive" alt="intermark" width="100%"><br>
+        </center>
+      </div>
+       <div class="col-lg-6">
+        <center>
+          <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHall.JPG" class="img-responsive" alt="intermark" width="100%">
+        </center>
+      </div>
+      <div class="col-lg-6">
+        <center>
+          <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHallDenah.JPG" class="img-responsive" alt="intermark" width="100%"><br>
+        </center>
+      </div>
+      <div class="col-lg-12">
+        <center>
+          <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\Denah_Ballroom.JPG" class="img-responsive" alt="intermark" width="100%">
+        </center>
+      </div>
+    </div>
+    <div class="col-lg-3 push">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHall.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
-     </center>
-   </div>
-   <div class="col-lg-6">
-     <center>
-       <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHallDenah.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
-     </center>
-   </div>
- </div>
+        <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\0.jpg" class="img-responsive" alt="intermark" width="100%">
+        <h1 class="title" style="color: #ff3c00;">Merdeka Ballroom</h1>
+      </center>
+    </div>
+  </div>
 </div>
 </section>
 

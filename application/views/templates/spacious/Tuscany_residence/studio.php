@@ -4,27 +4,27 @@
       <div class="col-lg-9">
         <div class="col-lg-6">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\s32.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
          </center>
        </div>
         <div class="col-lg-6">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\S27.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
          </center>
        </div>
         <div class="col-lg-6">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\s32.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
          </center>
        </div>
         <div class="col-lg-6">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\S27.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
          </center>
        </div>
         <div class="col-lg-12">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
          </center>
        </div>
      </div>

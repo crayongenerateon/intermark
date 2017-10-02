@@ -1,26 +1,40 @@
 <section class="about-section" style="margin-top: 120px;">
-	<center>
-    <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="10%">
-    <h1 class="title">8th Floor</h1>
-  </center>
   <div class="index-content">
     <div class="container">
-      <div class="col-lg-6">
+      <div class="col-lg-9">
+       <div class="col-lg-6">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.jpg" class="img-responsive" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.JPG" class="img-responsive" alt="intermark" width="100%">
        </center>
      </div>
-     <br>
-     <div class="col-lg-6">
-      <center>
-        <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V1.jpg" class="img-responsive thumbnail" alt="intermark" width="100%"><br>
-      </center>
-      <center>
-       <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V2.jpg" class="img-responsive thumbnail" alt="intermark" width="100%">
-     </center>
+       <div class="col-lg-6">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.JPG" class="img-responsive" alt="intermark" width="100%"><br>
+       </center>
+     </div>
+       <div class="col-lg-6">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.JPG" class="img-responsive" alt="intermark" width="100%">
+       </center>
+     </div>
+       <div class="col-lg-6">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V1.jpg" class="img-responsive" alt="intermark" width="100%"><br>
+       </center>
+     </div>
+       <div class="col-lg-12">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V2.jpg" class="img-responsive" alt="intermark" width="100%">
+       </center>
+     </div>
    </div>
-
- </div>
+   <div class="col-lg-3">
+     <center>
+      <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
+      <h1 class="title" style="color: #ff3c00;">8th Floor</h1>
+    </center>
+  </div>
+</div>
 </div>
 </section>
 
