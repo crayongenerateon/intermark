@@ -1,9 +1,7 @@
 <section class="about-section" style="margin-top: 120px;">
- <center>
-  <h1 class="title">Floor</h1>
-</center>
 <div class="index-content">
   <div class="container">
+   <div class="col-lg-8">
     <div class="col-lg-6">
       <center>
        <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_37.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
@@ -11,43 +9,42 @@
    </div>
    <div class="col-lg-6">
      <center>
-       <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_38.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_38.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
      </center>
    </div>
- </div>
- <br>
- <div class="container">
-  <div class="col-lg-6">
+   <div class="col-lg-6">
     <center>
       <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_39.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
     </center>
   </div>
   <div class="col-lg-6">
    <center>
-     <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_40.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+     <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_40.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
    </center>
  </div>
-</div>
-<br>
-<div class="container">
-  <div class="col-lg-6">
+ <div class="col-lg-6">
     <center>
      <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_41.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
    </center>
  </div>
  <div class="col-lg-6">
    <center>
-     <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_42.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+     <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_42.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
    </center>
  </div>
-</div>
-<br>
-<div class="container">
   <div class="col-lg-12">
     <center>
      <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\sales handbook_Page_43.jpg" class="img-responsive animated bounceIn" alt="intermark" width="100%">
    </center>
  </div>
+</div>
+<br>
+
+<div class="col-lg-4">
+ <center>
+  <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+   <h1 class="title">Floor</h1>
+</center>
 </div>
 </div>
 </section>
