@@ -1,40 +1,47 @@
 <section class="about-section" style="margin-top: 120px;">
-	<div class="index-content">
-		<div class="container">
-      <div class="col-lg-9">
-        <div class="col-lg-6">
+  <div class="index-content">
+    <div class="container">
+      <div class="col-lg-9 col-md-8">
+        <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
+          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+            <center>
+             <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+           </center>
+         </div>
+         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
            <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive" alt="intermark" width="100%">
          </center>
        </div>
-       <div class="col-lg-6">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive" alt="intermark" width="100%"><br>
-         </center>
-       </div>
-       <div class="col-lg-6">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive" alt="intermark" width="100%">
-         </center>
-       </div>
-       <div class="col-lg-6">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive" alt="intermark" width="100%"><br>
-         </center>
-       </div>
-       <div class="col-lg-12">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive" alt="intermark" width="100%">
-         </center>
-       </div>
+
+       <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+       </center>
      </div>
-     <div class="col-lg-3">
+     <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-        <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
-        <h1 class="title" style="color: #ff3c00;">2nd-7th Floor</h1>
-      </center>
-    </div>
+       <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
+     </center>
+   </div>
+   <div class="col-lg-12">
+    <center>
+     <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\lowzone.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+   </center>
+ </div>
+</div>
+</div>
+
+<div class="col-lg-3 col-md-4">
+  <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
+    <center>
+      <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+      <h1 class="title" style="color: #ff3c00;">2nd-7th Floor</h1>
+    </center>
   </div>
+</div>
+
+</div>
 </div>
 </section>
 
@@ -61,3 +68,5 @@
     </div>
   </div>
 </footer>
+
+
