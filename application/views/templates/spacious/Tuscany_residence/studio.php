@@ -2,39 +2,45 @@
   <div class="index-content">
     <div class="container">
       <div class="col-lg-9">
-        <div class="col-lg-6">
+       <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
+        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\s32.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+            <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\s32.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+          </center>
+        </div>
+        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+          <center>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\s32.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
          </center>
        </div>
-        <div class="col-lg-6">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\S27.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
-         </center>
-       </div>
-        <div class="col-lg-6">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\s32.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
-         </center>
-       </div>
-        <div class="col-lg-6">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\S27.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
-         </center>
-       </div>
-        <div class="col-lg-12">
-          <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
-         </center>
-       </div>
+       <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+        <center>
+         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\S27.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+       </center>
      </div>
-     <div class="col-lg-3">
-       <center>
-        <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
-        <h1 class="title" style="color: #ff3c00;">Studio</h1>
-      </center>
-    </div>
-  </div>
+     <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+      <center>
+       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\S27.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
+     </center>
+   </div>
+   <div class="col-lg-12">
+    <center>
+     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\StudioType.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+   </center>
+ </div>
+</div>
+</div>
+
+<div class="col-lg-3">
+ <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
+   <center>
+    <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+    <h1 class="title" style="color: #ff3c00;">Studio</h1>
+  </center>
+</div>
+</div>
+</div>
+</div>
 </div>
 </section>
 

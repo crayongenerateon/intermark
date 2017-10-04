@@ -5,28 +5,28 @@
         <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-             <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+             <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
            </center>
          </div>
          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
          </center>
        </div>
 
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%"><br>
+       <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
    <div class="col-lg-12">
     <center>
-     <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\lowzone.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
+     <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\lowzone.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
    </center>
  </div>
 </div>
@@ -70,3 +70,31 @@
 </footer>
 
 
+
+<div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="image-gallery-title"></h4>
+            </div>
+            <div class="modal-body">
+                <img id="image-gallery-image" class="img-responsive" src="">
+            </div>
+            <div class="modal-footer">
+
+                <div class="col-md-2">
+                    <button type="button" class="btn btn-primary" id="show-previous-image">Previous</button>
+                </div>
+
+                <div class="col-md-8 text-justify" id="image-gallery-caption">
+                    This text will be overwritten by jQuery
+                </div>
+
+                <div class="col-md-2">
+                    <button type="button" id="show-next-image" class="btn btn-default">Next</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

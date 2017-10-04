@@ -176,6 +176,7 @@ transition: all 0.35s ease-in-out;
 cursor: -webkit-zoom-in;      
 cursor: -moz-zoom-in;      
 cursor: zoom-in;  
+ padding-bottom: 20px;
 }     
 
 .zoom:hover,  
