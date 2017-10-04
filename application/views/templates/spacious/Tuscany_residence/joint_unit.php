@@ -1,7 +1,7 @@
 <section class="about-section" style="margin-top: 120px;">
   <div class="index-content">
     <div class="container">
-      <div class="col-lg-9">
+      <div class="col-lg-9 col-md-8">
         <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
@@ -31,7 +31,7 @@
 </div>
 </div>
 
-<div class="col-lg-3">
+<div class="col-lg-3 col-md-4">
   <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
    <center>
     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">

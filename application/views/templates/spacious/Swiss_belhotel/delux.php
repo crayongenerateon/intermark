@@ -1,7 +1,7 @@
 <section class="about-section" style="margin-top: 120px;">
   <div class="index-content">
     <div class="container">
-      <div class="col-lg-5">
+      <div class="col-lg-5 zoom col-centered">
         <center>
          <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Deluxe\Deluxe.JPG" class="img-responsive animated bounceIn" alt="intermark" width="100%">
        </center>
