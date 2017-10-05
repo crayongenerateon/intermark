@@ -1,27 +1,31 @@
-<section class="about-section" style="margin-top: 120px;">
+<section class="about-section" style="margin-top: 110px;">
   <div class="index-content">
     <div class="container">
       <div class="col-lg-9 col-md-8">
-         <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
-        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+       <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
+        <div class="row">
+          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+            <center>
+             <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\TR_ES_1.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+           </center>
+         </div>
+         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\TR_ES_1.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\TR_ES_23-25.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
          </center>
        </div>
+     </div>
+     <div class="row">
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\TR_ES_23-25.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
+         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\es3.JPG " class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\es3.JPG " class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\es2.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
      </center>
    </div>
-   <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
-    <center>
-     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\es2.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
-   </center>
  </div>
  <div class="col-lg-12">
   <center>
