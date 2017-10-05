@@ -34,8 +34,8 @@
 <div class="col-lg-3 col-md-4">
   <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
    <center>
-    <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
     <h1 class="title" style="color: #ff3c00;">Joint Unit</h1>
+    <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
   </center>
 </div>
 </div>

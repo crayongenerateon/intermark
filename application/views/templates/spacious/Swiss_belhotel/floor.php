@@ -48,8 +48,8 @@
 <div class="col-lg-4 col-md-4">
   <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
    <center>
-    <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
     <h1 class="title">Floor</h1>
+    <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
   </center>
 </div>
 </div>

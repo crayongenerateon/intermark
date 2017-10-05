@@ -36,8 +36,8 @@
 <div class="col-lg-3 col-md-4">
   <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
    <center>
-    <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
     <h1 class="title" style="color: #ff3c00;">8th Floor</h1>
+    <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
   </center>
 </div>
 </div>
