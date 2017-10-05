@@ -1,4 +1,7 @@
-<section class="about-section" style="margin-top: 120px; overflow: hidden;">
+<section class="about-section" style="margin-top: 110px; overflow: hidden;">
+  <center>
+     <h1 class="title" style="color: #ff3c00;">Lease</h1>
+  </center>
   <div class="index-content">
     <div class="container">
       <div class="col-lg-9 col-md-8 pull">
@@ -34,7 +37,6 @@
     <div class="col-lg-3 col-md-4 push">
       <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
         <center>
-          <h1 class="title" style="color: #ff3c00;">Lease</h1>
           <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-responsive" alt="intermark" width="100%">
         </center>
       </div>

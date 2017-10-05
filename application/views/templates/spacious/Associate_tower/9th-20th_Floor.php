@@ -1,4 +1,7 @@
-<section class="about-section" style="margin-top: 120px;">
+<section class="about-section" style="margin-top: 110px;">
+  <center>
+    <h1 class="title" style="color: #ff3c00;">9th-20th Floor</h1>
+  </center>
   <div class="index-content">
     <div class="container">
       <div class="col-lg-9 col-md-8">
@@ -33,7 +36,6 @@
 <div class="col-lg-3 col-md-4">
  <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
    <center>
-    <h1 class="title" style="color: #ff3c00;">9th-20th Floor</h1>
     <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
   </center>
 </div>
