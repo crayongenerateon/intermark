@@ -10,22 +10,22 @@
          </div>
          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\TR_1+1_37.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\TR_1+1_47.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
          </center>
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\TR_1+1_47.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\0.jpg" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\TR_1+1_47.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
+       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\0.jpg" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
      </center>
    </div>
    <div class="col-lg-12">
     <center>
-     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\1+1BedRoomTR.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\1+1 Bedroom\0.jpg" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
    </center>
  </div>
 </div>

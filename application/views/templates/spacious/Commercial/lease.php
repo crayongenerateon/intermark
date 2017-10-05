@@ -5,27 +5,27 @@
        <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_48.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_48.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
           </center>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_51.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
+            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_51.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
           </center>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_52.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_52.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
           </center>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_52.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
+            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_52.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
           </center>
         </div>
         <div class="col-lg-12">
           <center>
-            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_47.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+            <img src="<?php echo base_url() ?>\media\image\Commercial\Lease\sales handbook_Page_47.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
           </center>
         </div>
       </div>
@@ -34,7 +34,7 @@
     <div class="col-lg-3 col-md-4 push">
       <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
         <center>
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-responsive" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-responsive" alt="intermark" width="100%">
           <h1 class="title" style="color: #ff3c00;">Lease</h1>
         </center>
       </div>
@@ -55,13 +55,13 @@
     </div>
     <div class="col-md-5 col-md-offset-1">
       <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/1.JPG" class=" hidden-xs" width="100%">
+        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/1.jpg" class=" hidden-xs" width="100%">
       </div>
       <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/2.JPG" class=" hidden-xs" width="100%">
+        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/2.jpg" class=" hidden-xs" width="100%">
       </div>
       <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/3.JPG" class=" hidden-xs" width="100%">
+        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/3.jpg" class=" hidden-xs" width="100%">
       </div>
     </div>
   </div>

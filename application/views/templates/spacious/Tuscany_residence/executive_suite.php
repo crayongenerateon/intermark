@@ -5,27 +5,27 @@
          <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESlt1.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\TR_ES_1.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
          </center>
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESlt23-25.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
+         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\TR_ES_23-25.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESspec1.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\es3.JPG " class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
      </center>
    </div>
    <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
     <center>
-     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\ESspec2.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
+     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\es2.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%"><br>
    </center>
  </div>
  <div class="col-lg-12">
   <center>
-   <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\InteriorExecutive suite.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
+   <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Executive Suite\es1.JPG" class="img-responsive animated bounceIn img-thumbnail" alt="intermark" width="100%">
  </center>
 </div>
 </div>

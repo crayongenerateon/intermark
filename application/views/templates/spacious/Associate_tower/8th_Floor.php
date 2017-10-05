@@ -20,12 +20,12 @@
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
+       <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\LogoAssociateTower.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
      </center>
    </div>
    <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
     <center>
-     <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+     <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\LogoAssociateTower.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
    </center>
  </div>
 

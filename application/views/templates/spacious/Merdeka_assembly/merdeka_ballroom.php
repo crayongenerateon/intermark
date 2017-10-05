@@ -5,12 +5,12 @@
         <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
             <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHall.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\0.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
             </center>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\AssemblyHallDenah.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\0.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
             </center>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
