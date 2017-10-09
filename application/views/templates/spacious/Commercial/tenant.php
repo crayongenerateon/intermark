@@ -1,8 +1,138 @@
-<section class="about-section" style="margin-top: 120px;">
-<div class="index-content">
+<section class="about-section no-touch" style="margin-top: 120px;">
+  <div class="index-content">
 
-  <div class="container">
-    <div class="col-lg-3 zoom col-centered">
+    <div class="container">
+
+     <div class="wrap">
+
+      <!-- Define all of the tiles: -->
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\EDC.jpg" class="img-thumbnail"/>
+          <div class="titleBox">e-d-c</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\maxx.png" class="img-thumbnail"/>
+          <div class="titleBox">MAXX Coffee</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\dunkin donuta.png" class="img-thumbnail"/>
+          <div class="titleBox">Dunkin Donuts</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\FOLKS.png" class="img-thumbnail"/>
+          <div class="titleBox">folks</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" class="img-thumbnail"/>
+          <div class="titleBox">Warung Teko</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png" class="img-thumbnail"/>
+          <div class="titleBox">Juan Siaanto</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\foodmart-1.png" class="img-thumbnail"/>
+          <div class="titleBox">foodmart</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\saint cinnamo.png" class="img-thumbnail"/>
+          <div class="titleBox">saint Cinnamon</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png" class="img-thumbnail"/>
+          <div class="titleBox">Bhineka</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png" class="img-thumbnail"/>
+          <div class="titleBox">Juan Siaanto</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <div class="titleBox">Alfresco Dining</div>
+        </div>
+      </div>
+
+
+
+    </div>
+
+
+ <!--    <div class="col-lg-3 zoom col-centered">
       <center>
         <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\EDC.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
       </center>
@@ -23,11 +153,34 @@
   </center>
 </div>
 </div>
-<br>
-<div class="container">
+<br> -->
+<!-- <div class="container">
+  <div class="col-lg-3 zoom col-centered">
+    <center>
+      <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+    </center>
+  </div>
+  <div class="col-lg-3 zoom col-centered">
+   <center>
+    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+  </center>
+</div>
 <div class="col-lg-3 zoom col-centered">
   <center>
-    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\foodmart-1.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+  </center>
+</div>
+<div class="col-lg-3 zoom col-centered">
+ <center>
+  <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\saint cinnamo.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+</center>
+</div>
+</div>
+
+<div class="container">
+  <div class="col-lg-3 zoom col-centered">
+   <center>
+    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
   </center>
 </div>
 <div class="col-lg-3 zoom col-centered">
@@ -46,30 +199,7 @@
 </center>
 </div>
 </div>
-
-<div class="container">
-<div class="col-lg-3 zoom col-centered">
- <center>
-  <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
-</center>
-</div>
-<div class="col-lg-3 zoom col-centered">
- <center>
-  <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
-</center>
-</div>
-<div class="col-lg-3 zoom col-centered">
-  <center>
-    <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\foodmart-1.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
-  </center>
-</div>
-<div class="col-lg-3 zoom col-centered">
- <center>
-  <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\saint cinnamo.png" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
-</center>
-</div>
-</div>
-
+ -->
 </section>
 
 
