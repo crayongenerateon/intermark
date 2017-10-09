@@ -39,12 +39,12 @@
 </div>
 
 <div class="col-lg-3 col-md-4">
- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
+ <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
    <center>
     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
   </center>
 </div>
-</div>
+<!-- </div> -->
 </div>
 </div>
 </section>

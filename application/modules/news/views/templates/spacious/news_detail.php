@@ -69,7 +69,7 @@
             <div class="modal-body">
                 <img id="image-gallery-image" class="img-responsive" src="<?php echo upload_url($row['news_image_path']) ?>">
             </div>
-            <div class="modal-footer">
+            <!-- <div class="modal-footer">
 
                 <div class="col-md-2">
                     <button type="button" class="btn btn-primary" id="show-previous-image">Previous</button>
@@ -82,7 +82,7 @@
                 <div class="col-md-2">
                     <button type="button" id="show-next-image" class="btn btn-default">Next</button>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </div>

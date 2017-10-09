@@ -7,43 +7,43 @@
       <div class="col-lg-9 col-md-8">
         <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
           <div class="row">
-          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+            <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
+              <center>
+               <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c1.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+             </center>
+           </div>
+           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-             <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c1.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+             <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c2.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
            </center>
          </div>
+       </div>
+       <div class="row">
          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c2.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c3.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
          </center>
        </div>
-     </div>
-     <div class="row">
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c3.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c4.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
        </center>
      </div>
-     <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
-      <center>
-       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\c4.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
-     </center>
    </div>
- </div>
    <div class="col-lg-12">
     <center>
       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Join Unit\0.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
-   </center>
- </div>
+    </center>
+  </div>
 </div>
 </div>
 
 <div class="col-lg-3 col-md-4">
-  <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
+  <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
    <center>
     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
   </center>
-</div>
+  <!-- </div> -->
 </div>
 </div>
 </div>

@@ -36,11 +36,11 @@
         </div>
       </div>
       <div class="col-lg-3 col-md-4">
-       <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix">
+       <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
         <center>
           <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
         </center>
-      </div>
+      <!-- </div> -->
     </div>
   </div>
 </div>
