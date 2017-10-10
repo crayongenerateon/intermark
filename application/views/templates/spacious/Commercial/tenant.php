@@ -68,61 +68,61 @@
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.JPG" class="img-thumbnail"/>
+          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
           <div class="titleBox">Alfresco Dining</div>
         </div>
       </div>
