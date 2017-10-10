@@ -1,6 +1,6 @@
 <section class="about-section" style="margin-top: 120px">
   <div class="container">
-    <div class="col-lg-12">
+    <div class="col-lg-8">
       <center>
        <div class="index-content">
         <div class="card" style="text-align: left;">
@@ -11,16 +11,18 @@
         </div>
       </div>
     </center>
+  </div>
 
-    <div class="row">
-      <?php $no = 0 ?>
-      <?php foreach ($image as $row):?>
+  <div class="col-lg-4">
+  <div class="row">
+    <?php $no = 0 ?>
+    <?php foreach ($image as $row):?>
 
 
-        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
-          <div class='list-group gallery'>
-            <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo upload_url($row['news_image_path']) ?>">
-              <img class="img-responsive" alt="" src="<?php echo upload_url($row['news_image_path']) ?>" />
+      <div class='col-sm-4 col-xs-6 col-md-6 col-lg-6'>
+        <div class='list-group gallery'>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo upload_url($row['news_image_path']) ?>">
+            <img class="img-responsive" alt="" src="<?php echo upload_url($row['news_image_path']) ?>" />
               <!-- <div class='text-right'>
                 <small class='text-muted'>Image Title</small>
               </div>  -->
@@ -28,12 +30,12 @@
           </div> <!-- col-6 / end -->
         </div>
 
-          <?php $no++; ?>
-        <?php endforeach ?>
-      </div>
+        <?php $no++; ?>
+      <?php endforeach ?>
+    </div>
 
-      <script type="text/javascript">
-        $(document).ready(function(){
+    <script type="text/javascript">
+      $(document).ready(function(){
     //FANCYBOX
     //https://github.com/fancyapps/fancyBox
     $(".fancybox").fancybox({
@@ -44,8 +46,8 @@
 
 
 </script>
-
 </div>
+
 </div>
 </section>
 
