@@ -20,6 +20,7 @@
     <link href="<?php echo base_url() ?>media/css/ionicons.min.css" rel="stylesheet" type="text/css">
     <link href="<?php echo base_url() ?>media/templates/intermark/css/font-awesome.css" rel="stylesheet" type="text/css">
     <link href="<?php echo base_url() ?>media/templates/intermark/css/animate.min.css" rel="stylesheet" type="text/css">
+    <link href="<?php echo base_url() ?>media/templates/intermark/css/jquery.fancybox.min.css" rel="stylesheet" type="text/css">
     <!-- <link href="media/templates/intermark/css/material.indigo-pink.min.css" rel="stylesheet" type="text/css"> -->
 
     <!-- Custom CSS -->
@@ -30,10 +31,12 @@
     <script type="text/javascript" src="<?php echo base_url() ?>media/js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url() ?>media/js/bootstrap.min.js"></script>
 
+
     <!-- Custom x JavaScript -->
     <!-- <script type="text/javascript" src="media/templates/intermark/js/material.min.js"></script> -->
     <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/wow.js"></script>
     <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery.easing.min.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery.fancybox.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/custom.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
     <script src="https://apis.google.com/js/platform.js" async defer></script>

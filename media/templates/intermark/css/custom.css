@@ -1255,3 +1255,10 @@ label, legend {
 .white {
     color: #ffffff;
 }
+
+
+.gallery
+{
+    display: inline-block;
+    margin-top: 20px;
+}

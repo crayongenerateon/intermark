@@ -15,31 +15,37 @@
     <div class="row">
       <?php $no = 0 ?>
       <?php foreach ($image as $row):?>
-        <div class="col-md-3 col-sm-4 col-xs-6">
-          <a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="This is my title" data-caption="Some lovely red flowers" data-image="<?php echo upload_url($row['news_image_path']) ?>" data-target="#image-gallery">
-            <img class="img-responsive pass" src="<?php echo upload_url($row['news_image_path']) ?>" />
-          </a>
+
+
+        <div class='col-sm-4 col-xs-6 col-md-3 col-lg-3'>
+          <div class='list-group gallery'>
+            <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo upload_url($row['news_image_path']) ?>">
+              <img class="img-responsive" alt="" src="<?php echo upload_url($row['news_image_path']) ?>" />
+              <div class='text-right'>
+                <small class='text-muted'>Image Title</small>
+              </div> <!-- text-right / end -->
+            </a>
+          </div> <!-- col-6 / end -->
         </div>
 
-        
-        <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-          <div class="modal-dialog">
-            <div class="modal-content">
-              <div class="modal-body">
-                <center>
-                  <img id="image-gallery-image" class="img-responsive" src="<?php echo upload_url($row['news_image_path']) ?>">
-                </center>
-              </div>
-            </div>
-          </div>
-        </div>
-        <?php $no++; ?>
-      <?php endforeach ?>
-    </div>
+          <?php $no++; ?>
+        <?php endforeach ?>
+      </div>
+
+      <script type="text/javascript">
+        $(document).ready(function(){
+    //FANCYBOX
+    //https://github.com/fancyapps/fancyBox
+    $(".fancybox").fancybox({
+      openEffect: "none",
+      closeEffect: "none"
+    });
+  });
 
 
+</script>
 
-  </div>
+</div>
 </div>
 </section>
 
