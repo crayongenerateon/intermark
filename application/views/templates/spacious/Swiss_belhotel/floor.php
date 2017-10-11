@@ -1,6 +1,6 @@
 <section class="about-section" style="margin-top: 110px;">
   <center>
-   <h1 class="title">Floor</h1>
+   <h1 class="title" style="color: #ff3c00;">Floor</h1>
  </center>
  <div class="index-content">
   <div class="container">
