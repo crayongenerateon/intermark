@@ -1262,3 +1262,8 @@ label, legend {
     display: inline-block;
     margin-top: 20px;
 }
+
+.fancybox-lock .fancybox-overlay {
+    overflow: auto;
+    /*overflow-y: scroll;*/
+}

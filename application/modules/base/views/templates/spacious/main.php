@@ -20,18 +20,20 @@
         <hgroup>
           <h2>Introduction</h2>        
           <h3>Intermark is a one of the kind mixed-use building that combines artistic facade and modern contemporary architecture concept that simply creates a beautiful modern time signature in the south-end of Jakarta Intermark is a one of the kind mixed-use building.</h3>
-          <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
+          <a class="various fancybox" href="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2?autoplay=1" width="auto" height="auto" style="width:100% !important; height:auto !important">Learn more</a>
         </hgroup>
       </div>
 
     </div>
+
+
     <div class="item slides">
       <div class="slide-2"></div>
       <div class="hero">        
         <hgroup>
           <h1>Merdeka Assembly Hall</h1>        
           <h3>Merdeka Assembly Hall is a grand multi function ballroom in the middle of Intermark with commercially used pre-function area in the front and function deck at the rear side that able to host more than 1,000 people.</h3>
-          <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
+          <a class="various fancybox" href="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2?autoplay=1" width="auto" height="auto" style="width:100% !important; height:auto !important">Learn more</a>
         </hgroup>       
       </div>
     </div>
@@ -41,7 +43,7 @@
         <hgroup>
           <h1>Swiss-BelHotel</h1>        
           <h3>Swiss-Belhotel is a superior 14 storey four-star hotel services and amenities in Intermark with modern contemporary architecture and three level basement designs.</h3>
-          <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
+          <a class="various fancybox" href="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2?autoplay=1" width="auto" height="auto" style="width:100% !important; height:auto !important">Learn more</a>
         </hgroup>
       </div>
     </div>
@@ -51,7 +53,7 @@
         <hgroup>
           <h1>Shop-Houses</h1>        
           <h3>24/7 Alfresco Dining is a deluxe three storey high shop house with 1 semi basement in a modern contemporary stacking boxes architecture in the front side of Intermark.</h3>
-          <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
+          <a class="various fancybox" href="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2?autoplay=1" width="auto" height="auto" style="width:100% !important; height:auto !important">Learn more</a>
         </hgroup>
       </div>
     </div>
@@ -61,17 +63,17 @@
         <hgroup>
           <h1>Tuscany reidence</h1>        
           <h3>Tuscany Residence is a luxurious 21 storey high apartment in Intermark that offers ad-hock four-star hotel services and amenities in a modern contemporary architecture and three level basement design.</h3>
-          <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
+          <a class="various fancybox" href="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2?autoplay=1" width="auto" height="auto" style="width:100% !important; height:auto !important">Learn more</a>
         </hgroup>
       </div>
     </div>
-     <div class="item slides">
+    <div class="item slides">
       <div class="slide-6"></div>
       <div class="hero">        
         <hgroup>
           <h1>Associate Tower</h1>        
           <h3>Associate Tower is a premium 18 storey office building in Intermark with wide landscape and multiple-tenant ready concept in a modern contemporary architecture and three level basement design.</h3>
-          <a href="" data-toggle="modal" data-target="#myModal">Learn more</a>
+          <a class="various fancybox" href="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2?autoplay=1" width="auto" height="auto" style="width:100% !important; height:auto !important">Learn more</a>
         </hgroup>       
       </div>
     </div>
@@ -80,7 +82,7 @@
 </div>
 
 
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<!-- <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
@@ -95,7 +97,7 @@
     </div>
   </div>
 </div>
-</div>
+</div> -->
 
 <?php if ($favicon['setting_value'] != '-'): ?>
   <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true"  id="onload">

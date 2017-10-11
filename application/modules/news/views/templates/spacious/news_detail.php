@@ -22,7 +22,7 @@
       <div class='col-sm-4 col-xs-6 col-md-6 col-lg-6'>
         <div class='list-group gallery'>
           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo upload_url($row['news_image_path']) ?>">
-            <img class="img-responsive" alt="" src="<?php echo upload_url($row['news_image_path']) ?>" />
+            <img class="img-responsive" alt="" src="<?php echo upload_url($row['news_image_path']) ?>" width="100%"/>
               <!-- <div class='text-right'>
                 <small class='text-muted'>Image Title</small>
               </div>  -->

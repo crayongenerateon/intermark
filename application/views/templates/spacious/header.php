@@ -28,6 +28,7 @@
 
     <!-- Core JavaScript Files -->
     <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery-1.10.2.js"></script>
+    <script type="text/javascript" src="<?php echo base_url() ?>media/templates/intermark/js/jquery-1.12.3.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url() ?>media/js/jquery-ui.min.js"></script>
     <script type="text/javascript" src="<?php echo base_url() ?>media/js/bootstrap.min.js"></script>
 
