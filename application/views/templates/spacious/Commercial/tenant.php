@@ -21,7 +21,7 @@
       <div class="box">
         <div class="boxInner">
           <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\laundry.jpeg" class="img-thumbnail"/>
-          <div class="titleBox">Juan Siaanto</div>
+          <div class="titleBox">Laundry</div>
         </div>
       </div>
       <div class="box">
