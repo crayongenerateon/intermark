@@ -1,14 +1,17 @@
 <section class="about-section" style="margin-top: 120px;">
  <div class="container">
-  <div class="row">
+   
+  <div class="col-md-12">
     <div class="col-md-7">
       <h1 class="title">Do your best at every opportunity that you have</h1>
       <!-- <p class="subtitle">We appreciate all feedback we receive – positive and constructive - and love to hear what you think about our programmes and services. </p> -->
     </div>
   </div>
+
   <div class="row map-form">
-    <div class="col-md-7">
-      <div class="row">
+    <div class="col-md-12">
+      <div class="col-md-7">
+        
         <?php if ($this->session->flashdata('incomplete')) { ?>
         <div class="alert alert-danger alert-dismissable">
           <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
@@ -31,20 +34,21 @@
         $submit_data = array('class' => 'form-control btn btn-success', 'value' => 'Send Massage');
         echo form_contact(current_url(), '', $name_data, $email_data, $textarea_data, $submit_data, $div_input, $div_submit, $div_textarea)
         ?>
+        
       </div>
-    </div>
-    <div class="col-md-5">
-     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.6501855780707!2d106.6873393142591!3d-6.309604063502476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e531ee63e259%3A0x10ca1514be4fe7a3!2sIntermark+Indonesia!5e0!3m2!1sid!2sid!4v1505190136645" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
-     <h2>Contact Details</h2>
-     <h3>Address</h3>
-     <p><?php echo $address['contact_value'] ?></p>
-     <div class="col-md-5 col-sm-6" style="padding-left:0px;">
-      <h3>Telephone</h3>
-      <p><?php echo $phone['contact_value'] ?></p>
-    </div>
-    <div class="col-md-5 col-sm-6" style="padding-left:0px;">
-      <h3>Email</h3>
-      <p><a href="mailto:info@intermarkindonesia.com"><i class="mdi mdi-email"></i><?php echo $email['contact_value'] ?></a></p>
+      <div class="col-md-5">
+       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.6501855780707!2d106.6873393142591!3d-6.309604063502476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e531ee63e259%3A0x10ca1514be4fe7a3!2sIntermark+Indonesia!5e0!3m2!1sid!2sid!4v1505190136645" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+       <h2>Contact Details</h2>
+       <h3>Address</h3>
+       <p><?php echo $address['contact_value'] ?></p>
+       <div class="col-md-5 col-sm-6" style="padding-left:0px;">
+        <h3>Telephone</h3>
+        <p><?php echo $phone['contact_value'] ?></p>
+      </div>
+      <div class="col-md-5 col-sm-6" style="padding-left:0px;">
+        <h3>Email</h3>
+        <p><a href="mailto:info@intermarkindonesia.com"><i class="mdi mdi-email"></i><?php echo $email['contact_value'] ?></a></p>
+      </div>
     </div>
   </div>
 </div>
@@ -63,17 +67,6 @@
         Please contact the selling agent or developer directly to obtain any information, which may be available under terms of the application law</small>
         <br>
       </p>
-    </div>
-    <div class="col-md-5 col-md-offset-1">
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/1.jpg" class=" hidden-xs" width="100%">
-      </div>
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/2.jpg" class=" hidden-xs" width="100%">
-      </div>
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/3.jpg" class=" hidden-xs" width="100%">
-      </div>
     </div>
   </div>
 </footer>

@@ -20,6 +20,18 @@
       </div>
       <div class="box">
         <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\laundry.jpeg" class="img-thumbnail"/>
+          <div class="titleBox">Juan Siaanto</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
+          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" class="img-thumbnail"/>
+          <div class="titleBox">Warung Teko</div>
+        </div>
+      </div>
+      <div class="box">
+        <div class="boxInner">
           <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\dunkin donuta.png" class="img-thumbnail"/>
           <div class="titleBox">Dunkin Donuts</div>
         </div>
@@ -28,12 +40,6 @@
         <div class="boxInner">
           <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\FOLKS.png" class="img-thumbnail"/>
           <div class="titleBox">folks</div>
-        </div>
-      </div>
-      <div class="box">
-        <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" class="img-thumbnail"/>
-          <div class="titleBox">Warung Teko</div>
         </div>
       </div>
       <div class="box">
@@ -58,12 +64,6 @@
         <div class="boxInner">
           <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png" class="img-thumbnail"/>
           <div class="titleBox">Bhineka</div>
-        </div>
-      </div>
-      <div class="box">
-        <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Juan Siaanto</div>
         </div>
       </div>
       <div class="box">

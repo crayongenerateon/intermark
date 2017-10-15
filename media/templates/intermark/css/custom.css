@@ -184,11 +184,11 @@ cursor: zoom-in;
 .zoom:focus {
 /**adjust scale to desired size, 
 add browser prefixes**/
--ms-transform: scale(1.1);    
--moz-transform: scale(1.1);  
--webkit-transform: scale(1.1);  
--o-transform: scale(1.1);  
-transform: scale(1.1);    
+-ms-transform: scale(1.5);    
+-moz-transform: scale(1.5);  
+-webkit-transform: scale(1.5);  
+-o-transform: scale(1.5);  
+transform: scale(1.5);    
 position:relative;      
 z-index:100;  
 }
@@ -452,16 +452,16 @@ of those sections to manage the look and feel of the site. */
 /********************************/
 .hero {
   background-color: rgba(0, 0, 0, 0.3);
-  padding: 30px;
+  padding: 20px;
   position: absolute;
   top: 50%;
   left: 50%;
   z-index: 3;
   color: #fff;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
   text-align: center;
   text-transform: uppercase;
-  text-shadow: 2px 2px 0 rgba(0,0,0,.75);
+  text-shadow: 2px 1px 0 rgba(0,0,0,.75);
   -webkit-transform: translate3d(-50%,-50%,0);
   -moz-transform: translate3d(-50%,-50%,0);
   -ms-transform: translate3d(-50%,-50%,0);
@@ -469,8 +469,8 @@ of those sections to manage the look and feel of the site. */
   transform: translate3d(-50%,-50%,0);
 }
 .hero h1 {
-  font-family: "Champagne_Limousines";
-  font-size: 2em;    
+  font-family: "lato-bold";
+  font-size: 3em;    
   font-weight: bold;
   margin: 0;
   padding: 0;
@@ -564,7 +564,7 @@ h3 {
 /*          Media Queries       */
 /********************************/
 @media screen and (min-width: 980px){
-  .hero { width: 980px; }    
+  .hero { width: 580px; }    
 }
 @media screen and (max-width: 640px){
   .hero h1 { font-size: 4em; }    
