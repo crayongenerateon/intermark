@@ -54,16 +54,5 @@
         <br>
       </p>
     </div>
-    <div class="col-md-5 col-md-offset-1">
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/1.jpg" class=" hidden-xs" width="100%">
-      </div>
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/2.jpg" class=" hidden-xs" width="100%">
-      </div>
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/3.jpg" class=" hidden-xs" width="100%">
-      </div>
-    </div>
   </div>
 </footer>
