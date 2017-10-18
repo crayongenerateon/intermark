@@ -18,7 +18,7 @@
       <div class="slide-1"></div>
       <div class="hero">
         <hgroup>
-          <h1>Introduction</h1>        
+          <h1>Intermark Indonesia</h1>        
           <a class="various fancybox" href="https://www.youtube.com/embed/Q6ZnKIbvXrc?ecver=2?autoplay=1" width="auto" height="auto" style="width:100% !important; height:auto !important"><strong>Learn more</strong></a>
         </hgroup>
       </div>

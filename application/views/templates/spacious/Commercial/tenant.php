@@ -8,182 +8,242 @@
       <!-- Define all of the tiles: -->
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\EDC.jpg" class="img-thumbnail"/>
-          <div class="titleBox">e-d-c</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\EDC.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\EDC.jpg" width="100%"/>
+            <div class="titleBox">e-d-c</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\maxx.png" class="img-thumbnail"/>
-          <div class="titleBox">MAXX Coffee</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\maxx.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\maxx.png" width="100%"/>
+            <div class="titleBox">MAXX Coffee</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\laundry.jpeg" class="img-thumbnail"/>
-          <div class="titleBox">Laundry</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\laundry.jpeg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\laundry.jpeg" width="100%"/>
+            <div class="titleBox">Laundry</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" class="img-thumbnail"/>
-          <div class="titleBox">Warung Teko</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\WarungTekko-Logo.png" width="100%"/>
+            <div class="titleBox">Warung Teko</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\dunkin donuta.png" class="img-thumbnail"/>
-          <div class="titleBox">Dunkin Donuts</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\dunkin donuta.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\dunkin donuta.png" width="100%"/>
+            <div class="titleBox">Dunkin Donuts</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\FOLKS.png" class="img-thumbnail"/>
-          <div class="titleBox">folks</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\FOLKS.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\FOLKS.png" width="100%"/>
+            <div class="titleBox">folks</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png" class="img-thumbnail"/>
-          <div class="titleBox">Juan Siaanto</div>
+           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\juan.png" width="100%"/>
+            <div class="titleBox">Juan Siaanto</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\foodmart-1.png" class="img-thumbnail"/>
-          <div class="titleBox">foodmart</div>
+           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\foodmart-1.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\foodmart-1.png" width="100%"/>
+            <div class="titleBox">foodmart</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\saint cinnamo.png" class="img-thumbnail"/>
-          <div class="titleBox">saint Cinnamon</div>
+           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\saint cinnamo.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\saint cinnamo.png" width="100%"/>
+            <div class="titleBox">saint Cinnamon</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png" class="img-thumbnail"/>
-          <div class="titleBox">Bhineka</div>
+           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\Tenant\bhineka.png" width="100%"/>
+            <div class="titleBox">Bhineka</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+           <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
       <div class="box">
         <div class="boxInner">
-          <img src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" class="img-thumbnail"/>
-          <div class="titleBox">Alfresco Dining</div>
+          <a class="thumbnail fancybox" rel="ligthbox" href="<?php echo base_url() ?>\media\image\Commercial\0.jpg">
+            <img class="img-responsive" alt="" src="<?php echo base_url() ?>\media\image\Commercial\0.jpg" width="100%"/>
+            <div class="titleBox">Alfresco Dining</div>
+          </a>
         </div>
       </div>
 
@@ -259,7 +319,7 @@
 </center>
 </div>
 </div>
- -->
+-->
 </section>
 
 
