@@ -190,7 +190,9 @@ class Mediamanager_model extends CI_Model {
      */
     public function delete($id = NULL)
     {
+        
     	$this->db->delete('g_mediamanager', array('id' => $id));
+
     	$status = $this->db->affected_rows();
     	return ($status == 0) ? FALSE : TRUE;
     }

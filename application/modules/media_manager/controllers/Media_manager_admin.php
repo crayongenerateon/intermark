@@ -364,8 +364,17 @@ class Media_manager_admin extends CI_Controller {
 
     public function delete($id = NULL) {
 
-        $image = $this->Mediamanager_model->get($id);
+        //$image = $this->Mediamanager_model->get($id);
+        // $this->db->select('name');
+        // $this->db->where('id', $id);
+        // $rest = $this->db->get('g_mediamanager')->result();
+        
+        
+        $data['nama'] = $this->Mediamanager_model->get(array('id' => $id));
+        unlink("uploads/".$nama['name'].".jpg");
+
         $this->Mediamanager_model->delete($id);
+
         // activity log
         $this->Activity_log_model->add(
                 array(
@@ -376,6 +385,7 @@ class Media_manager_admin extends CI_Controller {
                     'activity_log_info' => 'ID:' . $id . ';Title:' . $id
                 )
         );
+        
 
         $this->session->set_flashdata('success', 'Hapus data berhasil');
         redirect('gadmin/media_manager');
