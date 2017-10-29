@@ -48,7 +48,7 @@ class Media_manager_admin extends CI_Controller {
         $this->load->view('admin/layout', $data);
     }
 
-    public function album($album_id, $offset = 0) {
+    public function album($album_id, $offset = NULL) {
 
         $this->load->library('pagination');
 
