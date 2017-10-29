@@ -9,40 +9,40 @@
       <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\lt3.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\uploads\lt3.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
          </center>
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-          <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\lt6.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\uploads\lt6.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
         </center>
       </div>
     </div>
     <div class="row">
       <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
        <center>
-         <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\lt5.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\uploads\lt5.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\lt11.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\uploads\lt11.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
  </div>
  <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
    <center>
-     <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\lt15.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+     <img src="<?php echo base_url() ?>\uploads\lt15.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
    </center>
  </div>
  <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
    <center>
-     <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\lt12.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
+     <img src="<?php echo base_url() ?>\uploads\lt12.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
    </center>
  </div>
  <div class="col-lg-12">
   <center>
-    <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\Floor\lt7-10.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\uploads\lt7-10.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
   </center>
 </div>
 </div>
@@ -51,7 +51,7 @@
 <div class="col-lg-4 col-md-4">
   <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
    <center>
-    <img src="<?php echo base_url() ?>\media\image\SwissBelhotel\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\uploads\SH_logo.jpg" class="img-responsive animated slideInRight" alt="intermark" width="100%">
   </center>
   <!-- </div> -->
 </div>

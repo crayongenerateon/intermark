@@ -8,28 +8,28 @@
         <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-             <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+             <img src="<?php echo base_url() ?>\uploads\AT2-7_1.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
            </center>
          </div>
          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-           <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\uploads\AT2-7_2.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
          </center>
        </div>
 
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\uploads\AT2-7_3.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\LogoAssociateTower.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\uploads\AT2-7_4.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
    <div class="col-lg-12">
     <center>
-     <img src="<?php echo base_url() ?>\media\image\AssociateTower\2nd-7th Floor\AT_2-7Floor.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+     <img src="<?php echo base_url() ?>\uploads\AT2-7_5.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
    </center>
  </div>
 </div>
@@ -38,7 +38,7 @@
 <div class="col-lg-3 col-md-4">
   <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
     <center>
-      <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+      <img src="<?php echo base_url() ?>\uploads\AT_logo.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
     </center>
   </div>
   <!-- </div> -->
@@ -56,17 +56,6 @@
         Please contact the selling agent or developer directly to obtain any information, which may be available under terms of the application law</small>
         <br>
       </p>
-    </div>
-    <div class="col-md-5 col-md-offset-1">
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/1.jpg" class=" hidden-xs" width="100%">
-      </div>
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/2.jpg" class=" hidden-xs" width="100%">
-      </div>
-      <div class="col-md-4 col-xs-12">
-        <img src="<?php echo base_url() ?>media/templates/intermark/images/support/3.jpg" class=" hidden-xs" width="100%">
-      </div>
     </div>
   </div>
 </footer>

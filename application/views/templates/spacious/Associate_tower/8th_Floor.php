@@ -8,27 +8,27 @@
        <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
          <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
           <center>
-            <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V1.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+            <img src="<?php echo base_url() ?>\uploads\AT8_1.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
           </center>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
          <center>
-           <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\INTERMARK_OFFICE POOL V2.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+           <img src="<?php echo base_url() ?>\uploads\AT8_2.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
          </center>
        </div>
        <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+         <img src="<?php echo base_url() ?>\uploads\AT8_3.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\LogoAssociateTower.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
+       <img src="<?php echo base_url() ?>\uploads\AT8_4.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%"><br>
      </center>
    </div>
    <div class="col-lg-12">
     <center>
-      <img src="<?php echo base_url() ?>\media\image\AssociateTower\8th Floor\8thFloor.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+      <img src="<?php echo base_url() ?>\uploads\AT8_5.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
     </center>
   </div>
 
@@ -39,7 +39,7 @@
 <div class="col-lg-3 col-md-4">
   <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
    <center>
-    <img src="<?php echo base_url() ?>\media\image\AssociateTower\LogoAssociateTower.png" class="img-responsive" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\uploads\AT_logo.png" class="img-responsive" alt="intermark" width="100%">
   </center>
   <!-- </div> -->
 </div>

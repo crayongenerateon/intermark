@@ -8,27 +8,27 @@
      <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
       <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-          <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\s32.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\uploads\Studio_1.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
         </center>
       </div>
       <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
         <center>
-         <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\S27.JPG" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
+         <img src="<?php echo base_url() ?>\uploads\Studio_2.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
        </center>
      </div>
      <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
       <center>
-       <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\0.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+       <img src="<?php echo base_url() ?>\uploads\Studio_3.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
      </center>
    </div>
    <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
     <center>
-     <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\0.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
+     <img src="<?php echo base_url() ?>\uploads\Studio_4.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%"><br>
    </center>
  </div>
  <div class="col-lg-12">
   <center>
-   <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\Studio\0.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
+   <img src="<?php echo base_url() ?>\uploads\Studio_5.jpg" class="img-responsive img-thumbnail animated bounceIn" alt="intermark" width="100%">
  </center>
 </div>
 </div>
@@ -37,7 +37,7 @@
 <div class="col-lg-3 col-md-4">
  <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
    <center>
-    <img src="<?php echo base_url() ?>\media\image\TuscanyResidence\0.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
+    <img src="<?php echo base_url() ?>\uploads\TR_logo.png" class="img-responsive animated slideInRight" alt="intermark" width="100%">
   </center>
 </div>
 <!-- </div> -->

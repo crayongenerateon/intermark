@@ -364,15 +364,14 @@ class Media_manager_admin extends CI_Controller {
 
     public function delete($id = NULL) {
 
-        //$image = $this->Mediamanager_model->get($id);
-        // $this->db->select('name');
-        // $this->db->where('id', $id);
-        // $rest = $this->db->get('g_mediamanager')->result();
-        
-        
-        $data['nama'] = $this->Mediamanager_model->get(array('id' => $id));
-        unlink("uploads/".$nama['name'].".jpg");
+        //get name from id
+        $adi = $this->Mediamanager_model->getImage(array('id' => $id));
+        //convert to string
+        $namaLink = $adi['name'];
+        //delete file in folder
+        unlink("uploads/".$namaLink);
 
+        //delete data in database
         $this->Mediamanager_model->delete($id);
 
         // activity log

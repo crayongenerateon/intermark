@@ -8,28 +8,28 @@
         <div id="scroll-able" data-spy="scroll" data-target="#target_nav">
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\0.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+              <img src="<?php echo base_url() ?>\uploads\MB_1.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
             </center>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\0.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+              <img src="<?php echo base_url() ?>\uploads\MB_2.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
             </center>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\Ballroom1.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+              <img src="<?php echo base_url() ?>\uploads\MB_3.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
             </center>
           </div>
           <div class="col-lg-6 col-md-6 col-sm-6 zoom col-centered">
             <center>
-              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\Ballroom2.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+              <img src="<?php echo base_url() ?>\uploads\MB_4.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
             </center>
           </div>
           
           <div class="col-lg-12">
             <center>
-              <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\Merdeka Ballroom\Denah_Ballroom.JPG" class="img-responsive img-thumbnail" alt="intermark" width="100%">
+              <img src="<?php echo base_url() ?>\uploads\MB_5.jpg" class="img-responsive img-thumbnail" alt="intermark" width="100%">
             </center>
           </div>
         </div>
@@ -39,7 +39,7 @@
       <div class="col-lg-3 col-md-4 push">
        <!-- <div id="nav" id="scroll-spy" class="nav hidden-xs hidden-sm" data-spy="affix"> -->
         <center>
-          <img src="<?php echo base_url() ?>\media\image\MerdekaAssemblyHall\0.jpg" class="img-responsive" alt="intermark" width="100%">
+          <img src="<?php echo base_url() ?>\uploads\MB_logo.jpg" class="img-responsive" alt="intermark" width="100%">
         </center>
         <!-- </div> -->
       </div>
