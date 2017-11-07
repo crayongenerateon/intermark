@@ -541,24 +541,24 @@ h3 {
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(../images/0.jpg); 
+  background-image: url(../../../../uploads/0.jpg); 
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(../images/1.jpg);
+  background-image: url(../../../../uploads/1.jpg);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(../images/2.jpg);
+  background-image: url(../../../../uploads/2.jpg);
 }
 
 .fade-carousel .slides .slide-4 {
-  background-image: url(../images/3.jpg);
+  background-image: url(../../../../uploads/3.jpg);
 }
 
 .fade-carousel .slides .slide-5 {
-  background-image: url(../images/4.jpg);
+  background-image: url(../../../../uploads/4.jpg);
 }
 .fade-carousel .slides .slide-6 {
-  background-image: url(../images/5.jpg);
+  background-image: url(../../../../uploads/5.jpg);
 }
 /********************************/
 /*          Media Queries       */
