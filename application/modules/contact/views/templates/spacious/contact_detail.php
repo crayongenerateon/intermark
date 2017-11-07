@@ -47,8 +47,8 @@
         <h3>Social Media</h3>
         
         <ul class="social-nav">
-          <li><a href="#" target="_blank" title="Facebook" rel="nofollow" class="facebook"><i class="ion ion-social-facebook"></i></a></li>
-          <li><a href="#" target="_blank" title="Instagram" rel="nofollow" class="google"><i class="ion ion-social-instagram-outline"></i></a></li>       
+          <li><a href="<?php echo $facebook['contact_value'] ?>" target="_blank" title="Facebook" rel="nofollow" class="facebook"><i class="ion ion-social-facebook"></i></a></li>
+          <li><a href="<?php echo $twitter['contact_value'] ?>" target="_blank" title="Instagram" rel="nofollow" class="google"><i class="ion ion-social-instagram-outline"></i></a></li>       
         </ul>
       </div>
       <div class="col-md-5 col-sm-6" style="padding-left:0px;">

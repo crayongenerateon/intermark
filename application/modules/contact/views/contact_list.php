@@ -53,7 +53,7 @@
         <br>
         <div class="row">
             <div class="col-md-4">
-                <label>Twitter</label>
+                <label>Instagram</label>
             </div>
             <div class="col-md-8">
                 <input type="text" name="twitter" value="<?php echo $twitter['contact_value'] ?>" class="form-control">

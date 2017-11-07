@@ -64,6 +64,8 @@ class Contact extends CI_Controller {
             $data['phone'] = $this->Contact_model->get(array('name' => 'phone'));
             $data['email'] = $this->Contact_model->get(array('name' => 'email'));
             $data['address'] = $this->Contact_model->get(array('name' => 'address'));
+            $data['facebook'] = $this->Contact_model->get(array('name' => 'facebook'));
+            $data['twitter'] = $this->Contact_model->get(array('name' => 'twitter'));
             if ($this->Contact_model->get(array('name' => 'email'))['contact_value'] != '-') {
                 $data['email'] = $this->Contact_model->get(array('name' => 'email'));
             }
