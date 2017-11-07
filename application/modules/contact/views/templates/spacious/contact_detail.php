@@ -1,6 +1,6 @@
 <section class="about-section" style="margin-top: 120px;">
  <div class="container">
-   
+
   <div class="col-md-12">
     <div class="col-md-7">
       <h1 class="title">Do your best at every opportunity that you have</h1>
@@ -11,7 +11,7 @@
   <div class="row map-form">
     <div class="col-md-12">
       <div class="col-md-7">
-        
+
         <?php if ($this->session->flashdata('incomplete')) { ?>
         <div class="alert alert-danger alert-dismissable">
           <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
@@ -43,7 +43,13 @@
        <p><?php echo $address['contact_value'] ?></p>
        <div class="col-md-5 col-sm-6" style="padding-left:0px;">
         <h3>Telephone</h3>
-        <p><?php echo $phone['contact_value'] ?></p>
+        <p><?php echo $phone['contact_value'] ?></p><p></p>
+        <h3>Social Media</h3>
+        
+        <ul class="social-nav">
+          <li><a href="#" target="_blank" title="Facebook" rel="nofollow" class="facebook"><i class="ion ion-social-facebook"></i></a></li>
+          <li><a href="#" target="_blank" title="Instagram" rel="nofollow" class="google"><i class="ion ion-social-instagram-outline"></i></a></li>       
+        </ul>
       </div>
       <div class="col-md-5 col-sm-6" style="padding-left:0px;">
         <h3>Email</h3>
